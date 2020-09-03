@@ -1,0 +1,146 @@
+13:44:52.628 TRACE com.Kinghao.controller.UserController 75 login - login was request
+13:44:53.537 TRACE com.Kinghao.service.UserService 70 login - xihongshi login success: Login successfully
+13:45:09.725 TRACE com.Kinghao.controller.UserController 75 login - login was request
+13:45:09.867 TRACE com.Kinghao.service.UserService 70 login - xihongshi login success: Login successfully
+13:45:13.638 TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+13:45:23.924 TRACE com.Kinghao.controller.UserController 75 login - login was request
+13:45:23.980 TRACE com.Kinghao.service.UserService 70 login - xihongshi2 login success: Login successfully
+13:45:31.174 TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+13:45:31.480 TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+13:45:38.277 TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+13:45:38.747 TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p1_nextButton
+13:45:39.224 TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p1_nextButton
+13:45:41.542 TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p2_nextButton
+13:45:42.761 TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p3_nextButton
+13:45:43.966 TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p4_nextButton
+13:45:52.947 TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p2_cocoon
+13:46:00.273 TRACE com.Kinghao.controller.UserController 75 login - login was request
+13:46:00.338 TRACE com.Kinghao.service.UserService 70 login - admin login success: Login successfully
+13:46:06.579 TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+13:46:09.378 TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p2_butterfly
+13:46:12.110 TRACE com.Kinghao.service.HotspotService 27 addRecord - admin clicked p1_nextButton
+13:46:12.700 TRACE com.Kinghao.service.HotspotService 27 addRecord - admin clicked p1_nextButton
+13:46:12.967 TRACE com.Kinghao.service.HotspotService 27 addRecord - admin clicked p2_nextButton
+13:46:13.207 TRACE com.Kinghao.service.HotspotService 27 addRecord - admin clicked p2_nextButton
+13:46:13.476 TRACE com.Kinghao.service.HotspotService 27 addRecord - admin clicked p2_nextButton
+13:46:17.300 TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p2_nextButton
+13:46:18.334 TRACE com.Kinghao.controller.UserController 75 login - login was request
+13:46:18.407 TRACE com.Kinghao.service.UserService 70 login - xihongshi login success: Login successfully
+13:46:23.897 TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+13:46:35.737 TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p3_nextButton
+13:46:36.388 TRACE com.Kinghao.service.HotspotService 27 addRecord - admin clicked p3_nextButton
+13:46:50.665 TRACE com.Kinghao.service.HotspotService 27 addRecord - admin clicked q3
+13:46:51.470 TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+13:46:54.491 TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+13:47:02.928 TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p2_cocoon
+13:47:11.373 TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p2_stretch
+13:47:15.737 TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p2_nextButton
+13:47:20.532 TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p3_disappointed
+13:47:24.601 TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p3_nextButton
+13:48:13.346 TRACE com.Kinghao.controller.UserController 75 login - login was request
+13:48:13.402 TRACE com.Kinghao.service.UserService 70 login - xihongshi2 login success: Login successfully
+13:48:19.188 TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+13:48:33.784 TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p1_nextButton
+13:48:34.645 TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p1_nextButton
+13:48:39.561 TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p1_nextButton
+13:48:47.372 TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked q2
+13:48:56.789 TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p2_nextButton
+13:49:58.505 TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p3_nextButton
+13:50:01.669 TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p4_nextButton
+13:50:58.154 TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p5_nextButton
+13:51:05.348 TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p6_nextButton
+13:51:26.507 TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p7_nextButton
+13:51:29.646 TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p8_nextButton
+13:51:30.233 TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p8_nextButton
+13:51:52.455 TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p8_nextButton
+13:52:10.009 TRACE com.Kinghao.controller.UserController 75 login - login was request
+13:52:10.078 TRACE com.Kinghao.service.UserService 70 login - xihongshi login success: Login successfully
+13:52:20.883 TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+13:52:50.535 TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p9_nextButton
+13:53:09.109 TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p10_nextButton
+13:53:09.709 TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p10_nextButton
+13:53:37.179 TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p11_nextButton
+13:53:41.570 TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p12_nextButton
+13:53:54.186 TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p13_nextButton
+13:53:55.109 TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p14_nextButton
+13:57:20.107 TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked q2
+13:57:23.904 TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+13:58:21.031 TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+13:58:21.572 TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+17:02:27.761 TRACE com.Kinghao.controller.UserController 75 login - login was request
+17:02:27.821 TRACE com.Kinghao.service.UserService 70 login - xihongshi login success: Login successfully
+17:02:48.352 TRACE com.Kinghao.controller.UserController 75 login - login was request
+17:02:48.416 TRACE com.Kinghao.service.UserService 70 login - xihongshi login success: Login successfully
+17:02:50.387 TRACE com.Kinghao.controller.UserController 75 login - login was request
+17:02:50.445 TRACE com.Kinghao.service.UserService 70 login - xihongshi login success: Login successfully
+17:02:53.174 TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+17:03:28.787 TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+17:04:19.071 TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+17:04:25.872 TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+17:05:23.683 TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+17:17:09.118 TRACE com.Kinghao.controller.UserController 75 login - login was request
+17:17:09.177 TRACE com.Kinghao.service.UserService 70 login - xihongshi login success: Login successfully
+17:17:13.326 TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+17:29:10.009 TRACE com.Kinghao.controller.UserController 75 login - login was request
+17:29:10.069 TRACE com.Kinghao.service.UserService 70 login - xihongshi login success: Login successfully
+17:29:16.433 TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+17:29:56.413 TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+17:29:57.096 TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+17:30:00.103 TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p2_nextButton
+17:30:10.278 TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p3_nextButton
+17:30:26.740 TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p4_nextButton
+17:30:34.239 TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p5_nextButton
+17:31:21.940 TRACE com.Kinghao.controller.UserController 75 login - login was request
+17:31:22.012 TRACE com.Kinghao.service.UserService 70 login - xihongshi login success: Login successfully
+17:31:32.041 TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+17:32:00.879 TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+17:32:02.456 TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+17:32:03.244 TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p2_nextButton
+17:32:09.098 TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p2_nextButton
+17:32:09.289 TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p2_nextButton
+17:32:15.763 TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p3_nextButton
+17:32:45.462 TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+17:33:09.375 TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+17:33:28.572 TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+17:33:29.325 TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+17:33:32.876 TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p2_nextButton
+17:33:37.534 TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p3_nextButton
+17:33:44.222 TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked q3_nextButton
+17:33:45.602 TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p4_nextButton
+17:33:47.783 TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p4_nextButton
+17:33:48.786 TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p5_nextButton
+17:33:53.144 TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked q5_nextButton
+17:34:01.824 TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+17:34:05.976 TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+17:34:06.547 TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+17:34:09.242 TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p2_nextButton
+17:34:09.932 TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p2_nextButton
+17:34:15.157 TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p3_nextButton
+17:34:49.676 TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked q3_nextButton
+17:35:12.066 TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+17:40:36.444 TRACE com.Kinghao.controller.UserController 75 login - login was request
+17:40:36.499 TRACE com.Kinghao.service.UserService 70 login - xihongshi login success: Login successfully
+17:40:51.698 TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+17:45:25.185 TRACE com.Kinghao.controller.UserController 75 login - login was request
+17:45:25.246 TRACE com.Kinghao.service.UserService 70 login - xihongshi login success: Login successfully
+17:45:30.296 TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+17:49:11.483 TRACE com.Kinghao.controller.UserController 75 login - login was request
+17:49:11.544 TRACE com.Kinghao.service.UserService 67 login - admin login failed: Wrong username or password.
+17:49:16.544 TRACE com.Kinghao.controller.UserController 75 login - login was request
+17:49:16.601 TRACE com.Kinghao.service.UserService 70 login - xihongshi login success: Login successfully
+17:49:20.924 TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+04:43:14.227 TRACE com.Kinghao.controller.UserController 75 login - login was request
+04:43:14.322 TRACE com.Kinghao.service.UserService 70 login - xihongshi login success: Login successfully
+04:43:20.002 TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+04:44:16.752 TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+08:18:47.384 TRACE com.Kinghao.controller.UserController 75 login - login was request
+08:18:47.447 TRACE com.Kinghao.service.UserService 70 login - admin login success: Login successfully
+08:18:53.690 TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+08:19:07.638 TRACE com.Kinghao.service.HotspotService 27 addRecord - admin clicked p1_nextButton
+08:19:08.794 TRACE com.Kinghao.service.HotspotService 27 addRecord - admin clicked p1_nextButton
+08:19:12.034 TRACE com.Kinghao.service.HotspotService 27 addRecord - admin clicked p2_replayButton
+08:19:15.178 TRACE com.Kinghao.service.HotspotService 27 addRecord - admin clicked p2_nextButton
+08:19:17.990 TRACE com.Kinghao.service.HotspotService 27 addRecord - admin clicked p3_nextButton
+08:19:29.277 TRACE com.Kinghao.service.HotspotService 27 addRecord - admin clicked q3
+08:19:31.631 TRACE com.Kinghao.service.HotspotService 27 addRecord - admin clicked q3
+08:19:35.122 TRACE com.Kinghao.service.HotspotService 27 addRecord - admin clicked q3_nextButton
