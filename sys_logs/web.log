@@ -1,0 +1,972 @@
+2020-08-25 at 14:59:08 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-25 at 14:59:08 CST TRACE com.Kinghao.service.UserService 66 login - admin login success: Login successfully
+2020-08-25 at 15:01:40 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-25 at 15:01:40 CST TRACE com.Kinghao.service.UserService 66 login - admin login success: Login successfully
+2020-08-25 at 15:02:09 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-08-25 at 15:03:53 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - admin clicked p4
+2020-08-25 at 15:15:31 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-25 at 15:21:21 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-25 at 15:40:33 CST TRACE com.Kinghao.controller.UserController 52 regist - login was request
+2020-08-25 at 15:40:33 CST TRACE com.Kinghao.service.UserService 39 regist - For name:xihongshi;Register successfully.
+2020-08-25 at 15:40:49 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-25 at 15:40:49 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-25 at 15:43:12 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-25 at 15:43:12 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-25 at 15:47:32 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-25 at 15:47:32 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-25 at 15:53:15 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-08-25 at 15:53:20 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-25 at 15:53:20 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-25 at 15:53:39 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-25 at 15:53:39 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-25 at 15:59:40 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-25 at 15:59:40 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-25 at 16:00:07 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-25 at 16:00:07 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-25 at 16:28:36 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-25 at 16:28:36 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-25 at 16:37:11 CST TRACE com.Kinghao.controller.UserController 52 regist - login was request
+2020-08-25 at 16:37:11 CST TRACE com.Kinghao.service.UserService 34 regist - For name:xihongshi;The user name has been used.
+2020-08-25 at 16:37:24 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-25 at 16:37:24 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-25 at 17:36:37 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-25 at 17:36:54 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-25 at 17:36:54 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-25 at 17:37:52 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-25 at 17:37:52 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-25 at 17:40:05 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-25 at 17:40:05 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-25 at 18:05:49 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-25 at 18:05:49 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-25 at 18:10:47 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-25 at 18:10:47 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-25 at 18:13:35 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-25 at 18:13:35 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-25 at 18:14:45 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-25 at 18:14:45 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-25 at 18:47:00 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-25 at 18:47:00 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-25 at 18:51:51 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-25 at 18:51:51 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-25 at 23:32:36 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-25 at 23:32:36 CST TRACE com.Kinghao.service.UserService 66 login - admin login success: Login successfully
+2020-08-26 at 09:42:48 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 09:42:48 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 09:45:15 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 09:45:15 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 10:12:35 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 10:12:35 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 10:14:22 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 10:14:22 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 10:16:46 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 10:16:46 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 10:22:58 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 10:22:58 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 10:23:12 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 10:23:12 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 10:24:20 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 10:24:20 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 10:41:22 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 10:41:22 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 10:42:24 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 10:42:24 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 10:45:09 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 10:45:09 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 10:47:32 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 10:47:32 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 10:51:15 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 10:51:15 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 10:52:32 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 10:52:32 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 10:55:18 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 10:55:18 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 10:57:37 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 10:57:37 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 10:58:16 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 10:58:16 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 11:03:55 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 11:03:55 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 11:05:31 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 11:05:31 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 11:09:32 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 11:09:32 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 11:11:08 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 11:11:08 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 11:21:09 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 11:21:09 CST TRACE com.Kinghao.service.UserService 66 login - admin login success: Login successfully
+2020-08-26 at 11:22:37 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 11:22:37 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 11:24:29 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 11:24:29 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 11:25:19 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 11:25:19 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 11:26:12 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 11:26:12 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 11:31:37 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-08-26 at 11:32:24 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - admin clicked p2w
+2020-08-26 at 11:34:29 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 11:34:29 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 11:35:16 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 11:35:16 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 11:37:01 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 11:37:01 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 11:45:32 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 11:45:32 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 11:45:52 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 11:45:52 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 11:46:12 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-08-26 at 11:47:12 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked P4
+2020-08-26 at 11:55:36 CST TRACE com.Kinghao.controller.ReadController 48 updateRecord - close book was requested
+2020-08-26 at 11:56:04 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-08-26 at 12:06:13 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 12:06:13 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 12:06:54 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 12:06:54 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 13:52:48 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 13:52:48 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 13:53:21 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 13:53:21 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 13:56:18 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 13:56:18 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 13:57:27 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 13:57:27 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 14:09:27 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 14:09:27 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 14:09:52 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 14:09:52 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 14:14:02 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 14:14:02 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 14:15:40 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 14:15:40 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 14:33:01 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 14:33:01 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 14:42:59 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 14:42:59 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 14:43:53 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 14:43:53 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 14:49:41 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 14:49:41 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 15:03:37 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 15:03:37 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 15:05:49 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 15:05:49 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 15:07:54 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 15:07:54 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 15:09:27 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 15:09:27 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 15:11:48 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 15:11:48 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 15:22:43 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 15:22:43 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 15:29:53 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 15:29:53 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 15:30:37 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 15:30:37 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 15:42:39 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 15:42:39 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 15:45:19 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 15:45:19 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 15:48:07 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 15:48:07 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 16:00:28 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 16:00:28 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 16:05:28 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 16:05:28 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 16:07:58 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 16:07:58 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 16:11:37 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 16:11:37 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 16:14:01 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 16:14:01 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 16:14:58 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 16:14:58 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 16:20:52 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 16:20:52 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 16:22:55 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 16:22:55 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 16:25:19 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 16:25:19 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 16:27:12 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 16:27:12 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 16:31:26 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 16:31:26 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 16:33:57 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 16:33:57 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 16:35:10 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 16:35:10 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 16:38:36 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 16:38:36 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 16:45:08 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 16:45:08 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 16:46:56 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 16:46:56 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 16:48:52 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 16:48:52 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 16:57:45 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 16:57:45 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 16:59:57 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 16:59:57 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 17:03:20 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 17:03:20 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 17:05:07 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 17:05:07 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 17:06:06 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 17:06:06 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 17:06:30 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 17:06:30 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 17:10:32 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 17:10:32 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 17:11:24 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 17:11:24 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 17:14:52 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 17:14:52 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 17:18:11 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 17:18:11 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 17:21:27 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 17:21:27 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 17:25:08 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 17:25:08 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 17:37:36 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 17:37:36 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 17:38:47 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 17:38:47 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 17:47:07 CST TRACE com.Kinghao.controller.UserController 52 regist - login was request
+2020-08-26 at 17:47:07 CST TRACE com.Kinghao.service.UserService 39 regist - For name:xihongshi2;Register successfully.
+2020-08-26 at 17:47:31 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 17:47:31 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi2 login success: Login successfully
+2020-08-26 at 17:48:26 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 17:48:26 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi2 login success: Login successfully
+2020-08-26 at 17:49:41 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 17:49:41 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi2 login success: Login successfully
+2020-08-26 at 17:59:24 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 17:59:24 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 18:00:41 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 18:00:41 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 18:03:05 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 18:03:05 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 18:04:35 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 18:04:35 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 18:08:57 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 18:08:57 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 18:19:12 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 18:19:12 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 18:20:36 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 18:20:36 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-26 at 18:20:45 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-08-26 at 18:21:15 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-08-26 at 18:21:35 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+2020-08-26 at 18:21:36 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+2020-08-26 at 18:21:37 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p2_nextButton
+2020-08-26 at 18:28:04 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 18:28:04 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi2 login success: Login successfully
+2020-08-26 at 18:28:13 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-08-26 at 18:28:18 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p1_nextButton
+2020-08-26 at 18:28:18 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p1_nextButton
+2020-08-26 at 18:28:19 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p2_nextButton
+2020-08-26 at 18:28:19 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p2_nextButton
+2020-08-26 at 18:28:19 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p2_nextButton
+2020-08-26 at 18:28:19 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p2_nextButton
+2020-08-26 at 18:28:19 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p2_nextButton
+2020-08-26 at 18:28:20 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p2_nextButton
+2020-08-26 at 18:28:20 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p2_nextButton
+2020-08-26 at 18:28:20 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p2_nextButton
+2020-08-26 at 18:28:20 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p2_nextButton
+2020-08-26 at 18:28:20 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p3_nextButton
+2020-08-26 at 18:28:21 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p3_nextButton
+2020-08-26 at 18:28:21 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p3_nextButton
+2020-08-26 at 18:28:21 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p3_nextButton
+2020-08-26 at 18:28:21 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p3_nextButton
+2020-08-26 at 18:28:21 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p3_nextButton
+2020-08-26 at 18:28:21 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p3_nextButton
+2020-08-26 at 18:28:22 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p3_nextButton
+2020-08-26 at 18:28:22 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p3_nextButton
+2020-08-26 at 18:28:22 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p3_nextButton
+2020-08-26 at 18:28:22 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p3_nextButton
+2020-08-26 at 18:28:23 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p4_nextButton
+2020-08-26 at 18:28:24 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p5_nextButton
+2020-08-26 at 18:28:24 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p5_nextButton
+2020-08-26 at 18:28:24 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p5_nextButton
+2020-08-26 at 18:28:24 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p5_nextButton
+2020-08-26 at 18:28:25 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p5_nextButton
+2020-08-26 at 18:28:25 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p5_nextButton
+2020-08-26 at 18:28:25 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p5_nextButton
+2020-08-26 at 18:28:25 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p5_nextButton
+2020-08-26 at 18:28:25 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p5_nextButton
+2020-08-26 at 18:28:25 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p5_nextButton
+2020-08-26 at 18:28:25 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p5_nextButton
+2020-08-26 at 18:28:25 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p5_nextButton
+2020-08-26 at 18:28:26 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p5_nextButton
+2020-08-26 at 18:28:26 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p5_nextButton
+2020-08-26 at 18:28:26 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p5_nextButton
+2020-08-26 at 18:28:26 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p5_nextButton
+2020-08-26 at 18:28:27 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p6_nextButton
+2020-08-26 at 18:28:29 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p7_nextButton
+2020-08-26 at 18:28:29 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p7_nextButton
+2020-08-26 at 18:28:29 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p7_nextButton
+2020-08-26 at 18:28:29 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p7_nextButton
+2020-08-26 at 18:28:30 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p7_nextButton
+2020-08-26 at 18:28:30 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p7_nextButton
+2020-08-26 at 18:28:30 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p7_nextButton
+2020-08-26 at 18:28:30 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p7_nextButton
+2020-08-26 at 18:28:30 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p7_nextButton
+2020-08-26 at 18:28:30 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p7_nextButton
+2020-08-26 at 18:28:32 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p8_nextButton
+2020-08-26 at 18:28:32 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p8_nextButton
+2020-08-26 at 18:28:32 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p8_nextButton
+2020-08-26 at 18:28:32 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p8_nextButton
+2020-08-26 at 18:28:35 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p9_nextButton
+2020-08-26 at 18:28:35 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p9_nextButton
+2020-08-26 at 18:28:35 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p9_nextButton
+2020-08-26 at 18:28:35 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p9_nextButton
+2020-08-26 at 18:28:37 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p9_nextButton
+2020-08-26 at 18:28:37 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p9_nextButton
+2020-08-26 at 18:28:37 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p9_nextButton
+2020-08-26 at 18:28:50 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p10_nextButton
+2020-08-26 at 18:28:54 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p11_nextButton
+2020-08-26 at 18:29:03 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p12_nextButton
+2020-08-26 at 18:29:05 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p13_nextButton
+2020-08-26 at 18:29:06 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p14_nextButton
+2020-08-26 at 18:29:08 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p15_nextButton
+2020-08-26 at 18:29:10 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p16_nextButton
+2020-08-26 at 18:29:11 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p17_nextButton
+2020-08-26 at 18:29:15 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p18_nextButton
+2020-08-26 at 18:29:43 CST TRACE com.Kinghao.controller.UserController 52 regist - login was request
+2020-08-26 at 18:29:43 CST TRACE com.Kinghao.service.UserService 39 regist - For name:xihongshi3;Register successfully.
+2020-08-26 at 18:29:59 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 18:29:59 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi3 login success: Login successfully
+2020-08-26 at 18:30:07 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-08-26 at 18:30:13 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi3 clicked p1_nextButton
+2020-08-26 at 18:30:14 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi3 clicked p1_nextButton
+2020-08-26 at 18:30:15 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi3 clicked p2_nextButton
+2020-08-26 at 18:30:16 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi3 clicked p3_nextButton
+2020-08-26 at 18:30:17 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi3 clicked p4_nextButton
+2020-08-26 at 18:30:18 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi3 clicked p5_nextButton
+2020-08-26 at 18:30:19 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi3 clicked p5_nextButton
+2020-08-26 at 18:30:21 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi3 clicked p6_nextButton
+2020-08-26 at 18:30:22 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi3 clicked p7_nextButton
+2020-08-26 at 18:30:26 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi3 clicked p8_nextButton
+2020-08-26 at 18:30:27 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi3 clicked p8_nextButton
+2020-08-26 at 18:30:27 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi3 clicked p8_nextButton
+2020-08-26 at 18:30:27 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi3 clicked p8_nextButton
+2020-08-26 at 18:30:27 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi3 clicked p8_nextButton
+2020-08-26 at 18:30:29 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi3 clicked p8_nextButton
+2020-08-26 at 18:30:31 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi3 clicked p9_nextButton
+2020-08-26 at 18:30:33 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi3 clicked p10_nextButton
+2020-08-26 at 18:30:33 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi3 clicked p10_nextButton
+2020-08-26 at 18:30:33 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi3 clicked p10_nextButton
+2020-08-26 at 18:30:33 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi3 clicked p10_nextButton
+2020-08-26 at 18:30:33 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi3 clicked p10_nextButton
+2020-08-26 at 18:30:33 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi3 clicked p10_nextButton
+2020-08-26 at 18:30:35 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi3 clicked p10_nextButton
+2020-08-26 at 18:30:37 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi3 clicked p11_nextButton
+2020-08-26 at 18:30:37 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi3 clicked p11_nextButton
+2020-08-26 at 18:30:37 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi3 clicked p11_nextButton
+2020-08-26 at 18:30:38 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi3 clicked p12_nextButton
+2020-08-26 at 18:30:38 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi3 clicked p12_nextButton
+2020-08-26 at 18:30:39 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi3 clicked p13_nextButton
+2020-08-26 at 18:30:40 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi3 clicked p14_nextButton
+2020-08-26 at 18:30:41 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi3 clicked p14_nextButton
+2020-08-26 at 18:30:42 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi3 clicked p14_nextButton
+2020-08-26 at 18:30:43 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi3 clicked p15_nextButton
+2020-08-26 at 18:30:44 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi3 clicked p16_nextButton
+2020-08-26 at 18:30:44 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi3 clicked p16_nextButton
+2020-08-26 at 18:30:45 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi3 clicked p16_nextButton
+2020-08-26 at 18:30:45 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi3 clicked p16_nextButton
+2020-08-26 at 18:30:46 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi3 clicked p16_nextButton
+2020-08-26 at 18:30:48 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi3 clicked p17_nextButton
+2020-08-26 at 18:30:49 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi3 clicked p18_nextButton
+2020-08-26 at 18:39:09 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-26 at 18:39:09 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-27 at 14:05:26 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-27 at 14:05:26 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi2 login success: Login successfully
+2020-08-27 at 14:09:51 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-27 at 14:09:51 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-27 at 15:18:49 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-27 at 15:18:49 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-27 at 15:27:20 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-27 at 15:27:20 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-27 at 15:45:42 CST TRACE com.Kinghao.controller.UserController 52 regist - login was request
+2020-08-27 at 15:45:42 CST TRACE com.Kinghao.service.UserService 39 regist - For name:huluobo;Register successfully.
+2020-08-27 at 15:46:04 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-27 at 15:46:04 CST TRACE com.Kinghao.service.UserService 66 login - huluobo login success: Login successfully
+2020-08-27 at 15:47:03 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-08-27 at 15:47:06 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+2020-08-27 at 15:47:07 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+2020-08-27 at 15:47:07 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p2_nextButton
+2020-08-27 at 15:47:07 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p3_nextButton
+2020-08-27 at 15:47:08 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p4_nextButton
+2020-08-27 at 15:47:08 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked q2_nextButton
+2020-08-27 at 15:47:08 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked q3_nextButton
+2020-08-27 at 15:47:08 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p5_nextButton
+2020-08-27 at 15:47:09 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p5_nextButton
+2020-08-27 at 15:47:09 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p6_nextButton
+2020-08-27 at 15:47:09 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p6_nextButton
+2020-08-27 at 15:47:09 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p7_nextButton
+2020-08-27 at 15:47:09 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked q6_nextButton
+2020-08-27 at 15:47:09 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p8_nextButton
+2020-08-27 at 15:47:10 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p8_nextButton
+2020-08-27 at 15:47:10 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p9_nextButton
+2020-08-27 at 15:47:10 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p6_nextButton
+2020-08-27 at 15:47:10 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p6_nextButton
+2020-08-27 at 15:47:11 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p6_nextButton
+2020-08-27 at 15:47:11 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p10_nextButton
+2020-08-27 at 15:47:11 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p11_nextButton
+2020-08-27 at 15:47:12 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked q10_nextButton
+2020-08-27 at 15:47:12 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p12_nextButton
+2020-08-27 at 15:47:12 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p12_nextButton
+2020-08-27 at 15:47:12 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p13_nextButton
+2020-08-27 at 15:47:13 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p14_nextButton
+2020-08-27 at 15:47:13 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p15_nextButton
+2020-08-27 at 15:47:13 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p15_nextButton
+2020-08-27 at 15:47:14 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p16_nextButton
+2020-08-27 at 15:47:14 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p17_nextButton
+2020-08-27 at 15:47:14 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p17_nextButton
+2020-08-27 at 15:47:14 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p17_nextButton
+2020-08-27 at 15:47:15 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p18_nextButton
+2020-08-27 at 15:47:15 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked q17_nextButton
+2020-08-27 at 15:47:55 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-27 at 15:47:55 CST TRACE com.Kinghao.service.UserService 66 login - huluobo login success: Login successfully
+2020-08-27 at 15:55:44 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-27 at 15:55:44 CST TRACE com.Kinghao.service.UserService 66 login - huluobo login success: Login successfully
+2020-08-27 at 15:56:26 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-27 at 15:57:01 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-27 at 15:57:01 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi2 login success: Login successfully
+2020-08-27 at 15:57:37 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-27 at 15:58:23 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-27 at 15:59:31 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-27 at 16:10:09 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-27 at 16:10:09 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-27 at 16:11:09 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-27 at 16:11:09 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-27 at 16:11:28 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-27 at 16:11:28 CST TRACE com.Kinghao.service.UserService 66 login - huluobo login success: Login successfully
+2020-08-27 at 16:11:46 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-27 at 16:11:46 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi2 login success: Login successfully
+2020-08-27 at 16:12:05 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-27 at 16:12:05 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi3 login success: Login successfully
+2020-08-27 at 16:14:25 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-27 at 16:14:25 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-27 at 16:14:43 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-28 at 07:52:34 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-28 at 07:52:34 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-28 at 07:52:40 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-08-28 at 07:52:47 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-08-28 at 07:52:50 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+2020-08-28 at 07:52:50 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+2020-08-28 at 07:52:51 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p2_nextButton
+2020-08-28 at 07:52:51 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p2_nextButton
+2020-08-28 at 07:52:51 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p3_nextButton
+2020-08-28 at 07:52:51 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p3_nextButton
+2020-08-28 at 07:52:51 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p3_nextButton
+2020-08-28 at 07:52:52 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p4_nextButton
+2020-08-28 at 07:52:52 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p5_nextButton
+2020-08-28 at 07:52:52 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p5_nextButton
+2020-08-28 at 07:52:52 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p5_nextButton
+2020-08-28 at 07:52:52 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p6_nextButton
+2020-08-28 at 07:52:52 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p6_nextButton
+2020-08-28 at 07:52:53 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p7_nextButton
+2020-08-28 at 07:52:53 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p7_nextButton
+2020-08-28 at 07:52:53 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p7_nextButton
+2020-08-28 at 07:52:53 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p7_nextButton
+2020-08-28 at 07:52:54 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p8_nextButton
+2020-08-28 at 07:52:54 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p9_nextButton
+2020-08-28 at 07:52:54 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p9_nextButton
+2020-08-28 at 07:52:54 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p9_nextButton
+2020-08-28 at 07:52:55 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p9_nextButton
+2020-08-28 at 07:52:55 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p10_nextButton
+2020-08-28 at 07:52:55 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p11_nextButton
+2020-08-28 at 07:52:56 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p12_nextButton
+2020-08-28 at 07:52:56 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p13_nextButton
+2020-08-28 at 07:52:56 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p14_nextButton
+2020-08-28 at 07:52:57 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p11_nextButton
+2020-08-28 at 07:52:57 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p15_nextButton
+2020-08-28 at 07:52:57 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p16_nextButton
+2020-08-28 at 07:52:58 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p17_nextButton
+2020-08-28 at 07:52:58 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p17_nextButton
+2020-08-28 at 07:52:58 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p16_nextButton
+2020-08-28 at 07:52:58 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p17_nextButton
+2020-08-28 at 07:52:58 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p18_nextButton
+2020-08-28 at 07:53:07 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-08-28 at 09:11:13 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-28 at 09:11:13 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-28 at 09:11:18 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-08-29 at 07:33:41 CST TRACE com.Kinghao.controller.UserController 69 login - login was request
+2020-08-29 at 07:33:41 CST TRACE com.Kinghao.service.UserService 66 login - xihongshi login success: Login successfully
+2020-08-29 at 07:34:24 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-08-29 at 07:35:13 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+2020-08-29 at 08:00:37 CST TRACE com.Kinghao.controller.UserController 56 regist - regist was request
+2020-08-29 at 08:00:37 CST TRACE com.Kinghao.service.UserService 43 regist - For name:admin;Register successfully.
+2020-08-29 at 08:01:39 CST TRACE com.Kinghao.controller.UserController 56 regist - regist was request
+2020-08-29 at 08:01:39 CST TRACE com.Kinghao.service.UserService 43 regist - For name:xihongshi;Register successfully.
+2020-08-29 at 08:02:04 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-08-29 at 08:02:04 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi login success: Login successfully
+2020-08-29 at 08:02:51 CST TRACE com.Kinghao.controller.UserController 56 regist - regist was request
+2020-08-29 at 08:02:51 CST TRACE com.Kinghao.service.UserService 43 regist - For name:xihongshi2;Register successfully.
+2020-08-29 at 08:03:21 CST TRACE com.Kinghao.controller.UserController 56 regist - regist was request
+2020-08-29 at 08:03:21 CST TRACE com.Kinghao.service.UserService 43 regist - For name:xihongshi3;Register successfully.
+2020-08-29 at 09:25:49 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-08-29 at 09:25:49 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi login success: Login successfully
+2020-08-29 at 09:26:03 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-08-29 at 09:26:12 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-08-29 at 09:53:06 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-08-29 at 09:53:06 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi login success: Login successfully
+2020-08-29 at 09:53:13 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-08-29 at 09:55:30 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+2020-08-29 at 09:55:35 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+2020-08-29 at 09:55:37 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p2_backButton
+2020-08-29 at 09:55:52 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+2020-08-29 at 09:57:11 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-08-29 at 09:57:15 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-08-29 at 09:57:15 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi2 login success: Login successfully
+2020-08-29 at 10:03:45 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-08-29 at 10:03:57 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-08-29 at 10:03:57 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi login success: Login successfully
+2020-08-29 at 10:04:11 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-08-29 at 10:04:20 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-08-29 at 10:41:06 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-08-29 at 10:41:06 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi2 login success: Login successfully
+2020-08-29 at 10:41:33 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-08-29 at 10:43:23 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p1_nextButton
+2020-08-29 at 10:43:57 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p1_nextButton
+2020-08-29 at 10:44:10 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p2_undefined
+2020-08-29 at 10:44:43 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p2_nextButton
+2020-08-29 at 10:45:39 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p3_nextButton
+2020-08-29 at 10:45:48 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p4_nextButton
+2020-08-29 at 10:48:04 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p5_nextButton
+2020-08-29 at 10:48:14 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p6_nextButton
+2020-08-29 at 10:49:14 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-08-29 at 10:49:23 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p1_nextButton
+2020-08-29 at 10:49:25 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p1_nextButton
+2020-08-29 at 10:49:31 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p2_nextButton
+2020-08-29 at 10:49:32 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p3_nextButton
+2020-08-29 at 10:49:36 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p4_nextButton
+2020-08-29 at 10:50:51 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-08-29 at 10:50:51 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi login success: Login successfully
+2020-08-29 at 10:51:05 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-08-29 at 10:51:11 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+2020-08-29 at 10:51:12 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+2020-08-29 at 10:51:16 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p2_nextButton
+2020-08-29 at 10:51:18 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p3_nextButton
+2020-08-29 at 11:03:09 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-08-29 at 11:03:09 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi3 login success: Login successfully
+2020-08-29 at 11:04:18 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-08-29 at 11:04:25 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-08-29 at 11:04:25 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi2 login success: Login successfully
+2020-08-29 at 11:05:01 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-08-29 at 11:05:01 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi3 login success: Login successfully
+2020-08-29 at 11:11:25 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-08-29 at 11:12:49 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-08-29 at 11:54:25 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-08-29 at 11:54:26 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi login success: Login successfully
+2020-08-29 at 11:55:13 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-08-29 at 20:17:32 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-08-29 at 20:17:32 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi login success: Login successfully
+2020-08-29 at 20:23:06 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-08-29 at 20:24:23 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+2020-08-29 at 20:24:25 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+2020-08-29 at 20:24:26 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+2020-08-29 at 20:25:39 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p2_nextButton
+2020-08-29 at 20:26:13 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p3_disappointed
+2020-08-29 at 20:26:28 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p3_water
+2020-08-29 at 20:26:38 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p3_see
+2020-08-29 at 20:26:44 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p3_dry
+2020-08-29 at 20:26:53 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p3_leaf
+2020-08-29 at 20:27:23 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p3_nextButton
+2020-08-29 at 20:33:56 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p4_nextButton
+2020-08-29 at 20:47:50 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p5_replayButton
+2020-08-29 at 20:48:13 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p5_Bunnies
+2020-08-29 at 20:58:08 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-08-29 at 20:58:08 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi login success: Login successfully
+2020-08-29 at 21:14:30 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-08-29 at 21:14:30 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi login success: Login successfully
+2020-08-29 at 21:15:50 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-08-29 at 22:22:26 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-08-29 at 22:22:26 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi login success: Login successfully
+2020-08-29 at 22:22:58 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-08-29 at 22:24:04 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+2020-08-29 at 22:24:05 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+2020-08-29 at 22:24:12 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+2020-08-29 at 22:24:12 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+2020-08-30 at 12:33:42 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-08-30 at 12:33:42 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi2 login success: Login successfully
+2020-08-30 at 12:33:59 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-08-30 at 12:35:07 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-08-30 at 12:35:40 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-08-30 at 12:35:40 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi2 login success: Login successfully
+2020-08-30 at 12:35:47 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-08-30 at 12:39:07 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-08-30 at 12:39:07 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi2 login success: Login successfully
+2020-08-30 at 12:39:14 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-08-31 at 09:12:39 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-08-31 at 09:12:39 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi login success: Login successfully
+2020-08-31 at 09:12:49 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-08-31 at 09:15:21 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+2020-08-31 at 09:15:25 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+2020-08-31 at 09:15:45 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p2_nextButton
+2020-08-31 at 09:16:43 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p3_replayButton
+2020-08-31 at 09:16:46 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p3_backButton
+2020-08-31 at 09:16:48 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p2_nextButton
+2020-08-31 at 09:16:57 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p3_nextButton
+2020-08-31 at 09:17:15 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p4_nextButton
+2020-09-01 at 04:19:05 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-09-01 at 04:19:05 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi2 login success: Login successfully
+2020-09-01 at 04:19:14 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-01 at 04:19:47 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-01 at 04:20:19 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-09-01 at 04:20:19 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi2 login success: Login successfully
+2020-09-01 at 04:20:24 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-01 at 04:21:38 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p1_nextButton
+2020-09-01 at 04:21:38 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p1_nextButton
+2020-09-01 at 04:26:03 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p2_nextButton
+2020-09-01 at 04:26:04 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p3_nextButton
+2020-09-01 at 04:26:29 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p3_nextButton
+2020-09-01 at 04:50:51 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p4_nextButton
+2020-09-01 at 04:51:04 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p5_nextButton
+2020-09-01 at 04:52:00 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-09-01 at 04:52:00 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi login success: Login successfully
+2020-09-01 at 04:52:05 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-01 at 04:52:53 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+2020-09-01 at 04:52:54 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+2020-09-01 at 04:52:56 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p2_nextButton
+2020-09-01 at 04:53:19 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p3_nextButton
+2020-09-01 at 04:53:42 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked q3
+2020-09-01 at 04:53:47 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked q3
+2020-09-01 at 04:53:50 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked q3
+2020-09-01 at 04:53:54 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked q3
+2020-09-01 at 04:54:07 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked q3_nextButton
+2020-09-01 at 04:54:10 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p4_nextButton
+2020-09-01 at 05:00:19 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p5_nextButton
+2020-09-01 at 05:41:12 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-09-01 at 05:41:12 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi login success: Login successfully
+2020-09-01 at 05:41:16 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-01 at 06:31:11 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-09-01 at 06:31:11 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi login success: Login successfully
+2020-09-01 at 06:32:09 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-01 at 06:32:19 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+2020-09-01 at 06:32:23 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+2020-09-01 at 06:33:43 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-09-01 at 06:33:43 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi login success: Login successfully
+2020-09-01 at 06:33:47 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-01 at 06:33:51 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+2020-09-01 at 06:33:53 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+2020-09-01 at 06:34:10 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-01 at 06:36:17 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+2020-09-01 at 06:36:20 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+2020-09-01 at 06:36:36 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p2_cocoon
+2020-09-01 at 06:37:00 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-09-01 at 06:37:00 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi login success: Login successfully
+2020-09-01 at 06:37:04 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-01 at 06:37:08 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p2_beautiful
+2020-09-01 at 06:37:14 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p2_butterfly
+2020-09-01 at 06:37:20 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p2_nextButton
+2020-09-01 at 06:39:43 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_replayButton
+2020-09-01 at 06:40:53 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p3_nextButton
+2020-09-01 at 06:41:05 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p4_nextButton
+2020-09-01 at 06:41:47 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p5_love
+2020-09-01 at 06:41:54 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p5_Bunnies
+2020-09-01 at 06:42:03 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p5_popular
+2020-09-01 at 06:42:52 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-09-01 at 06:42:52 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi2 login success: Login successfully
+2020-09-01 at 06:42:56 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-01 at 06:44:19 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-09-01 at 06:44:19 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi login success: Login successfully
+2020-09-01 at 06:44:23 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-01 at 06:44:43 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-09-01 at 06:44:44 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi login success: Login successfully
+2020-09-01 at 06:44:47 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-01 at 06:45:27 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+2020-09-01 at 06:45:44 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-09-01 at 06:45:44 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi login success: Login successfully
+2020-09-01 at 06:45:48 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-01 at 06:47:21 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-09-01 at 06:47:22 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi login success: Login successfully
+2020-09-01 at 06:47:25 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-09-01 at 06:47:25 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi2 login success: Login successfully
+2020-09-01 at 06:47:32 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-01 at 06:47:34 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-01 at 06:48:06 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-01 at 06:49:49 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p1_nextButton
+2020-09-01 at 06:50:41 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_replayButton
+2020-09-01 at 06:51:21 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-09-01 at 06:51:21 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi login success: Login successfully
+2020-09-01 at 06:51:59 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-01 at 06:52:08 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+2020-09-01 at 06:52:09 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+2020-09-01 at 06:52:31 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p2_nextButton
+2020-09-01 at 06:53:16 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p3_disappointed
+2020-09-01 at 06:53:22 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p3_nextButton
+2020-09-01 at 06:53:26 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p4_nextButton
+2020-09-01 at 06:57:06 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p2_stretch
+2020-09-01 at 06:57:12 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p2_butterfly
+2020-09-01 at 06:57:15 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p2_stretch
+2020-09-01 at 06:57:20 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p2_beautiful
+2020-09-01 at 06:57:22 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p2_cocoon
+2020-09-01 at 06:57:24 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p2_stretch
+2020-09-01 at 06:57:26 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p2_deep
+2020-09-01 at 06:57:29 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p2_nextButton
+2020-09-01 at 06:57:48 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p3_nextButton
+2020-09-01 at 07:00:20 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p4_green
+2020-09-01 at 07:00:23 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p4_butterfly
+2020-09-01 at 07:00:32 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p4_nextButton
+2020-09-02 at 01:08:25 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-09-02 at 01:08:25 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi login success: Login successfully
+2020-09-02 at 01:09:23 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-02 at 01:10:01 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-09-02 at 01:10:01 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi login success: Login successfully
+2020-09-02 at 01:10:08 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-02 at 01:13:15 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-02 at 01:18:03 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-02 at 01:18:05 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-02 at 01:18:43 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-09-02 at 01:18:44 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi login success: Login successfully
+2020-09-02 at 01:18:48 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-02 at 01:20:00 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-02 at 01:20:31 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-09-02 at 01:20:31 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi login success: Login successfully
+2020-09-02 at 01:20:37 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-02 at 01:22:05 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-02 at 01:25:46 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-09-02 at 01:25:46 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi2 login success: Login successfully
+2020-09-02 at 01:26:19 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-02 at 01:27:41 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-09-02 at 01:27:41 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi3 login success: Login successfully
+2020-09-02 at 01:27:47 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-02 at 03:41:57 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-09-02 at 03:41:57 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi login success: Login successfully
+2020-09-02 at 03:42:02 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-02 at 03:44:17 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-09-02 at 03:44:17 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi2 login success: Login successfully
+2020-09-02 at 03:44:26 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-02 at 03:45:27 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+2020-09-02 at 03:45:42 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+2020-09-02 at 03:47:03 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-09-02 at 03:47:03 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi login success: Login successfully
+2020-09-02 at 03:47:12 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-02 at 03:48:04 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-02 at 08:05:53 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-09-02 at 08:05:53 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi login success: Login successfully
+2020-09-02 at 08:06:15 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-02 at 08:07:53 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+2020-09-02 at 08:07:54 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+2020-09-02 at 08:08:36 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p2_nextButton
+2020-09-02 at 08:10:02 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-09-02 at 08:10:03 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi login success: Login successfully
+2020-09-02 at 08:10:07 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-02 at 08:10:10 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-02 at 08:12:48 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-09-02 at 08:12:48 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi login success: Login successfully
+2020-09-02 at 08:12:53 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-02 at 08:17:41 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-02 at 08:17:46 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-02 at 08:22:30 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-09-02 at 08:22:30 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi login success: Login successfully
+2020-09-02 at 08:22:35 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-02 at 08:24:59 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-09-02 at 08:24:59 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi2 login success: Login successfully
+2020-09-02 at 08:25:24 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-02 at 08:31:07 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-09-02 at 08:31:08 CST TRACE com.Kinghao.service.UserService 70 login - admin login success: Login successfully
+2020-09-02 at 08:31:11 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-02 at 08:31:25 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-09-02 at 08:31:26 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi login success: Login successfully
+2020-09-02 at 08:31:29 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-02 at 08:33:15 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-09-02 at 08:33:15 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi login success: Login successfully
+2020-09-02 at 08:33:21 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-02 at 08:33:59 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-09-02 at 08:33:59 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi login success: Login successfully
+2020-09-02 at 08:34:06 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-02 at 08:35:16 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-09-02 at 08:35:16 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi login success: Login successfully
+2020-09-02 at 08:35:22 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-02 at 08:36:48 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-09-02 at 08:36:48 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi2 login success: Login successfully
+2020-09-02 at 08:36:57 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-02 at 08:38:34 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p1_nextButton
+2020-09-02 at 08:38:37 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p1_nextButton
+2020-09-02 at 08:38:52 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p1_nextButton
+2020-09-02 at 08:39:35 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p2_nextButton
+2020-09-02 at 08:41:04 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p3_nextButton
+2020-09-02 at 10:44:16 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-09-02 at 10:44:16 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi login success: Login successfully
+2020-09-02 at 10:44:25 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-02 at 11:18:05 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-09-02 at 11:18:05 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi login success: Login successfully
+2020-09-02 at 11:18:23 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-02 at 11:18:34 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+2020-09-02 at 11:18:40 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+2020-09-02 at 11:19:30 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-02 at 11:20:33 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-09-02 at 11:20:33 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi login success: Login successfully
+2020-09-02 at 11:20:52 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-09-02 at 11:20:52 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi login success: Login successfully
+2020-09-02 at 11:21:03 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-02 at 11:21:34 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-02 at 11:22:10 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+2020-09-02 at 11:22:10 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-09-02 at 11:22:10 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi login success: Login successfully
+2020-09-02 at 11:22:31 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-02 at 11:22:35 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-09-02 at 11:22:35 CST TRACE com.Kinghao.service.UserService 70 login - admin login success: Login successfully
+2020-09-02 at 11:22:38 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-02 at 11:23:20 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-09-02 at 11:23:20 CST TRACE com.Kinghao.service.UserService 70 login - admin login success: Login successfully
+2020-09-02 at 11:23:31 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-02 at 11:24:21 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+2020-09-02 at 11:24:23 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+2020-09-02 at 11:24:25 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p2_nextButton
+2020-09-02 at 11:26:22 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - admin clicked p1_nextButton
+2020-09-02 at 11:26:25 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - admin clicked p1_nextButton
+2020-09-02 at 11:38:18 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - admin clicked p2_nextButton
+2020-09-02 at 11:38:26 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - admin clicked p3_nextButton
+2020-09-02 at 11:38:33 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - admin clicked q2
+2020-09-02 at 11:39:01 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - admin clicked q2
+2020-09-02 at 12:10:54 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-09-02 at 12:10:54 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi login success: Login successfully
+2020-09-02 at 12:10:59 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-02 at 13:44:52 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-09-02 at 13:44:53 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi login success: Login successfully
+2020-09-02 at 13:45:09 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-09-02 at 13:45:09 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi login success: Login successfully
+2020-09-02 at 13:45:13 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-02 at 13:45:23 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-09-02 at 13:45:23 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi2 login success: Login successfully
+2020-09-02 at 13:45:31 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-02 at 13:45:31 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+2020-09-02 at 13:45:38 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+2020-09-02 at 13:45:38 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p1_nextButton
+2020-09-02 at 13:45:39 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p1_nextButton
+2020-09-02 at 13:45:41 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p2_nextButton
+2020-09-02 at 13:45:42 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p3_nextButton
+2020-09-02 at 13:45:43 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p4_nextButton
+2020-09-02 at 13:45:52 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p2_cocoon
+2020-09-02 at 13:46:00 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-09-02 at 13:46:00 CST TRACE com.Kinghao.service.UserService 70 login - admin login success: Login successfully
+2020-09-02 at 13:46:06 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-02 at 13:46:09 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p2_butterfly
+2020-09-02 at 13:46:12 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - admin clicked p1_nextButton
+2020-09-02 at 13:46:12 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - admin clicked p1_nextButton
+2020-09-02 at 13:46:12 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - admin clicked p2_nextButton
+2020-09-02 at 13:46:13 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - admin clicked p2_nextButton
+2020-09-02 at 13:46:13 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - admin clicked p2_nextButton
+2020-09-02 at 13:46:17 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p2_nextButton
+2020-09-02 at 13:46:18 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-09-02 at 13:46:18 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi login success: Login successfully
+2020-09-02 at 13:46:23 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-02 at 13:46:35 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p3_nextButton
+2020-09-02 at 13:46:36 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - admin clicked p3_nextButton
+2020-09-02 at 13:46:50 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - admin clicked q3
+2020-09-02 at 13:46:51 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+2020-09-02 at 13:46:54 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+2020-09-02 at 13:47:02 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p2_cocoon
+2020-09-02 at 13:47:11 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p2_stretch
+2020-09-02 at 13:47:15 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p2_nextButton
+2020-09-02 at 13:47:20 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p3_disappointed
+2020-09-02 at 13:47:24 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p3_nextButton
+2020-09-02 at 13:48:13 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-09-02 at 13:48:13 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi2 login success: Login successfully
+2020-09-02 at 13:48:19 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-02 at 13:48:33 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p1_nextButton
+2020-09-02 at 13:48:34 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p1_nextButton
+2020-09-02 at 13:48:39 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p1_nextButton
+2020-09-02 at 13:48:47 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked q2
+2020-09-02 at 13:48:56 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p2_nextButton
+2020-09-02 at 13:49:58 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p3_nextButton
+2020-09-02 at 13:50:01 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p4_nextButton
+2020-09-02 at 13:50:58 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p5_nextButton
+2020-09-02 at 13:51:05 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p6_nextButton
+2020-09-02 at 13:51:26 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p7_nextButton
+2020-09-02 at 13:51:29 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p8_nextButton
+2020-09-02 at 13:51:30 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p8_nextButton
+2020-09-02 at 13:51:52 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p8_nextButton
+2020-09-02 at 13:52:10 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-09-02 at 13:52:10 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi login success: Login successfully
+2020-09-02 at 13:52:20 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-02 at 13:52:50 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p9_nextButton
+2020-09-02 at 13:53:09 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p10_nextButton
+2020-09-02 at 13:53:09 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p10_nextButton
+2020-09-02 at 13:53:37 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p11_nextButton
+2020-09-02 at 13:53:41 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p12_nextButton
+2020-09-02 at 13:53:54 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p13_nextButton
+2020-09-02 at 13:53:55 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi2 clicked p14_nextButton
+2020-09-02 at 13:57:20 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked q2
+2020-09-02 at 13:57:23 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-02 at 13:58:21 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+2020-09-02 at 13:58:21 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+2020-09-02 at 17:02:27 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-09-02 at 17:02:27 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi login success: Login successfully
+2020-09-02 at 17:02:48 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-09-02 at 17:02:48 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi login success: Login successfully
+2020-09-02 at 17:02:50 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-09-02 at 17:02:50 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi login success: Login successfully
+2020-09-02 at 17:02:53 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-02 at 17:03:28 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-02 at 17:04:19 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+2020-09-02 at 17:04:25 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+2020-09-02 at 17:05:23 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-02 at 17:17:09 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-09-02 at 17:17:09 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi login success: Login successfully
+2020-09-02 at 17:17:13 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-02 at 17:29:10 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-09-02 at 17:29:10 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi login success: Login successfully
+2020-09-02 at 17:29:16 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-02 at 17:29:56 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+2020-09-02 at 17:29:57 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+2020-09-02 at 17:30:00 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p2_nextButton
+2020-09-02 at 17:30:10 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p3_nextButton
+2020-09-02 at 17:30:26 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p4_nextButton
+2020-09-02 at 17:30:34 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p5_nextButton
+2020-09-02 at 17:31:21 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-09-02 at 17:31:22 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi login success: Login successfully
+2020-09-02 at 17:31:32 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-02 at 17:32:00 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+2020-09-02 at 17:32:02 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+2020-09-02 at 17:32:03 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p2_nextButton
+2020-09-02 at 17:32:09 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p2_nextButton
+2020-09-02 at 17:32:09 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p2_nextButton
+2020-09-02 at 17:32:15 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p3_nextButton
+2020-09-02 at 17:32:45 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-02 at 17:33:09 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-02 at 17:33:28 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+2020-09-02 at 17:33:29 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+2020-09-02 at 17:33:32 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p2_nextButton
+2020-09-02 at 17:33:37 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p3_nextButton
+2020-09-02 at 17:33:44 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked q3_nextButton
+2020-09-02 at 17:33:45 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p4_nextButton
+2020-09-02 at 17:33:47 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p4_nextButton
+2020-09-02 at 17:33:48 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p5_nextButton
+2020-09-02 at 17:33:53 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked q5_nextButton
+2020-09-02 at 17:34:01 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-02 at 17:34:05 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+2020-09-02 at 17:34:06 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+2020-09-02 at 17:34:09 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p2_nextButton
+2020-09-02 at 17:34:09 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p2_nextButton
+2020-09-02 at 17:34:15 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p3_nextButton
+2020-09-02 at 17:34:49 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked q3_nextButton
+2020-09-02 at 17:35:12 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-02 at 17:40:36 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-09-02 at 17:40:36 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi login success: Login successfully
+2020-09-02 at 17:40:51 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-02 at 17:45:25 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-09-02 at 17:45:25 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi login success: Login successfully
+2020-09-02 at 17:45:30 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-02 at 17:49:11 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-09-02 at 17:49:11 CST TRACE com.Kinghao.service.UserService 67 login - admin login failed: Wrong username or password.
+2020-09-02 at 17:49:16 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-09-02 at 17:49:16 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi login success: Login successfully
+2020-09-02 at 17:49:20 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-03 at 04:43:14 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-09-03 at 04:43:14 CST TRACE com.Kinghao.service.UserService 70 login - xihongshi login success: Login successfully
+2020-09-03 at 04:43:20 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-03 at 04:44:16 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - xihongshi clicked p1_nextButton
+2020-09-03 at 08:18:47 CST TRACE com.Kinghao.controller.UserController 75 login - login was request
+2020-09-03 at 08:18:47 CST TRACE com.Kinghao.service.UserService 70 login - admin login success: Login successfully
+2020-09-03 at 08:18:53 CST TRACE com.Kinghao.controller.ReadController 40 addRecord - open book was requested
+2020-09-03 at 08:19:07 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - admin clicked p1_nextButton
+2020-09-03 at 08:19:08 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - admin clicked p1_nextButton
+2020-09-03 at 08:19:12 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - admin clicked p2_replayButton
+2020-09-03 at 08:19:15 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - admin clicked p2_nextButton
+2020-09-03 at 08:19:17 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - admin clicked p3_nextButton
+2020-09-03 at 08:19:29 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - admin clicked q3
+2020-09-03 at 08:19:31 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - admin clicked q3
+2020-09-03 at 08:19:35 CST TRACE com.Kinghao.service.HotspotService 27 addRecord - admin clicked q3_nextButton

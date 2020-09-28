@@ -1,0 +1,396 @@
+bookid	username	opentime	closetime	hotspotName	hotspotType	clickResult	clickTime	remarks
+2	admin	2020-08-25 15:02:10	2020-08-25 15:04:54	p4	words	NULL	2020-08-25 15:03:54	NULL
+2	admin	2020-08-26 11:31:38	NULL	p2w	quotes	NULL	2020-08-26 11:32:24	NULL
+0	xihongshi	2020-08-26 11:46:12	2020-08-26 11:55:37	P4	P4	NULL	2020-08-26 11:47:13	NULL
+0	xihongshi	2020-08-26 18:21:16	NULL	p1_nextButton	next_button		2020-08-26 18:21:36	NULL
+0	xihongshi	2020-08-26 18:21:16	NULL	p1_nextButton	next_button		2020-08-26 18:21:36	NULL
+0	xihongshi	2020-08-26 18:21:16	NULL	p2_nextButton	next_button		2020-08-26 18:21:37	NULL
+0	xihongshi2	2020-08-26 18:28:14	NULL	p1_nextButton	next_button		2020-08-26 18:28:19	NULL
+0	xihongshi2	2020-08-26 18:28:14	NULL	p1_nextButton	next_button		2020-08-26 18:28:19	NULL
+0	xihongshi2	2020-08-26 18:28:14	NULL	p2_nextButton	next_button		2020-08-26 18:28:19	NULL
+0	xihongshi2	2020-08-26 18:28:14	NULL	p2_nextButton	next_button		2020-08-26 18:28:19	NULL
+0	xihongshi2	2020-08-26 18:28:14	NULL	p2_nextButton	next_button		2020-08-26 18:28:19	NULL
+0	xihongshi2	2020-08-26 18:28:14	NULL	p2_nextButton	next_button		2020-08-26 18:28:20	NULL
+0	xihongshi2	2020-08-26 18:28:14	NULL	p2_nextButton	next_button		2020-08-26 18:28:20	NULL
+0	xihongshi2	2020-08-26 18:28:14	NULL	p2_nextButton	next_button		2020-08-26 18:28:20	NULL
+0	xihongshi2	2020-08-26 18:28:14	NULL	p2_nextButton	next_button		2020-08-26 18:28:20	NULL
+0	xihongshi2	2020-08-26 18:28:14	NULL	p2_nextButton	next_button		2020-08-26 18:28:20	NULL
+0	xihongshi2	2020-08-26 18:28:14	NULL	p2_nextButton	next_button		2020-08-26 18:28:21	NULL
+0	xihongshi2	2020-08-26 18:28:14	NULL	p3_nextButton	next_button		2020-08-26 18:28:21	NULL
+0	xihongshi2	2020-08-26 18:28:14	NULL	p3_nextButton	next_button		2020-08-26 18:28:21	NULL
+0	xihongshi2	2020-08-26 18:28:14	NULL	p3_nextButton	next_button		2020-08-26 18:28:21	NULL
+0	xihongshi2	2020-08-26 18:28:14	NULL	p3_nextButton	next_button		2020-08-26 18:28:22	NULL
+0	xihongshi2	2020-08-26 18:28:14	NULL	p3_nextButton	next_button		2020-08-26 18:28:22	NULL
+0	xihongshi2	2020-08-26 18:28:14	NULL	p3_nextButton	next_button		2020-08-26 18:28:22	NULL
+0	xihongshi2	2020-08-26 18:28:14	NULL	p3_nextButton	next_button		2020-08-26 18:28:22	NULL
+0	xihongshi2	2020-08-26 18:28:14	NULL	p3_nextButton	next_button		2020-08-26 18:28:22	NULL
+0	xihongshi2	2020-08-26 18:28:14	NULL	p3_nextButton	next_button		2020-08-26 18:28:23	NULL
+0	xihongshi2	2020-08-26 18:28:14	NULL	p3_nextButton	next_button		2020-08-26 18:28:23	NULL
+0	xihongshi2	2020-08-26 18:28:14	NULL	p3_nextButton	next_button		2020-08-26 18:28:23	NULL
+0	xihongshi2	2020-08-26 18:28:14	NULL	p4_nextButton	next_button		2020-08-26 18:28:24	NULL
+0	xihongshi2	2020-08-26 18:28:14	NULL	p5_nextButton	next_button		2020-08-26 18:28:24	NULL
+0	xihongshi2	2020-08-26 18:28:14	NULL	p5_nextButton	next_button		2020-08-26 18:28:24	NULL
+0	xihongshi2	2020-08-26 18:28:14	NULL	p5_nextButton	next_button		2020-08-26 18:28:24	NULL
+0	xihongshi2	2020-08-26 18:28:14	NULL	p5_nextButton	next_button		2020-08-26 18:28:24	NULL
+0	xihongshi2	2020-08-26 18:28:14	NULL	p5_nextButton	next_button		2020-08-26 18:28:25	NULL
+0	xihongshi2	2020-08-26 18:28:14	NULL	p5_nextButton	next_button		2020-08-26 18:28:25	NULL
+0	xihongshi2	2020-08-26 18:28:14	NULL	p5_nextButton	next_button		2020-08-26 18:28:25	NULL
+0	xihongshi2	2020-08-26 18:28:14	NULL	p5_nextButton	next_button		2020-08-26 18:28:25	NULL
+0	xihongshi2	2020-08-26 18:28:14	NULL	p5_nextButton	next_button		2020-08-26 18:28:25	NULL
+0	xihongshi2	2020-08-26 18:28:14	NULL	p5_nextButton	next_button		2020-08-26 18:28:26	NULL
+0	xihongshi2	2020-08-26 18:28:14	NULL	p5_nextButton	next_button		2020-08-26 18:28:26	NULL
+0	xihongshi2	2020-08-26 18:28:14	NULL	p5_nextButton	next_button		2020-08-26 18:28:26	NULL
+0	xihongshi2	2020-08-26 18:28:14	NULL	p5_nextButton	next_button		2020-08-26 18:28:26	NULL
+0	xihongshi2	2020-08-26 18:28:14	NULL	p5_nextButton	next_button		2020-08-26 18:28:26	NULL
+0	xihongshi2	2020-08-26 18:28:14	NULL	p5_nextButton	next_button		2020-08-26 18:28:27	NULL
+0	xihongshi2	2020-08-26 18:28:14	NULL	p5_nextButton	next_button		2020-08-26 18:28:27	NULL
+0	xihongshi2	2020-08-26 18:28:14	NULL	p6_nextButton	next_button		2020-08-26 18:28:28	NULL
+0	xihongshi2	2020-08-26 18:28:14	NULL	p7_nextButton	next_button		2020-08-26 18:28:30	NULL
+0	xihongshi2	2020-08-26 18:28:14	NULL	p7_nextButton	next_button		2020-08-26 18:28:30	NULL
+0	xihongshi2	2020-08-26 18:28:14	NULL	p7_nextButton	next_button		2020-08-26 18:28:30	NULL
+0	xihongshi2	2020-08-26 18:28:14	NULL	p7_nextButton	next_button		2020-08-26 18:28:30	NULL
+0	xihongshi2	2020-08-26 18:28:14	NULL	p7_nextButton	next_button		2020-08-26 18:28:30	NULL
+0	xihongshi2	2020-08-26 18:28:14	NULL	p7_nextButton	next_button		2020-08-26 18:28:30	NULL
+0	xihongshi2	2020-08-26 18:28:14	NULL	p7_nextButton	next_button		2020-08-26 18:28:30	NULL
+0	xihongshi2	2020-08-26 18:28:14	NULL	p7_nextButton	next_button		2020-08-26 18:28:30	NULL
+0	xihongshi2	2020-08-26 18:28:14	NULL	p7_nextButton	next_button		2020-08-26 18:28:31	NULL
+0	xihongshi2	2020-08-26 18:28:14	NULL	p7_nextButton	next_button		2020-08-26 18:28:31	NULL
+0	xihongshi2	2020-08-26 18:28:14	NULL	p8_nextButton	next_button		2020-08-26 18:28:33	NULL
+0	xihongshi2	2020-08-26 18:28:14	NULL	p8_nextButton	next_button		2020-08-26 18:28:33	NULL
+0	xihongshi2	2020-08-26 18:28:14	NULL	p8_nextButton	next_button		2020-08-26 18:28:33	NULL
+0	xihongshi2	2020-08-26 18:28:14	NULL	p8_nextButton	next_button		2020-08-26 18:28:33	NULL
+0	xihongshi2	2020-08-26 18:28:14	NULL	p9_nextButton	next_button		2020-08-26 18:28:35	NULL
+0	xihongshi2	2020-08-26 18:28:14	NULL	p9_nextButton	next_button		2020-08-26 18:28:35	NULL
+0	xihongshi2	2020-08-26 18:28:14	NULL	p9_nextButton	next_button		2020-08-26 18:28:35	NULL
+0	xihongshi2	2020-08-26 18:28:14	NULL	p9_nextButton	next_button		2020-08-26 18:28:36	NULL
+0	xihongshi2	2020-08-26 18:28:14	NULL	p9_nextButton	next_button		2020-08-26 18:28:37	NULL
+0	xihongshi2	2020-08-26 18:28:14	NULL	p9_nextButton	next_button		2020-08-26 18:28:37	NULL
+0	xihongshi2	2020-08-26 18:28:14	NULL	p9_nextButton	next_button		2020-08-26 18:28:37	NULL
+0	xihongshi2	2020-08-26 18:28:14	NULL	p10_nextButton	next_button		2020-08-26 18:28:50	NULL
+0	xihongshi2	2020-08-26 18:28:14	NULL	p11_nextButton	next_button		2020-08-26 18:28:54	NULL
+0	xihongshi2	2020-08-26 18:28:14	NULL	p12_nextButton	next_button		2020-08-26 18:29:04	NULL
+0	xihongshi2	2020-08-26 18:28:14	NULL	p13_nextButton	next_button		2020-08-26 18:29:05	NULL
+0	xihongshi2	2020-08-26 18:28:14	NULL	p14_nextButton	next_button		2020-08-26 18:29:06	NULL
+0	xihongshi2	2020-08-26 18:28:14	NULL	p15_nextButton	next_button		2020-08-26 18:29:09	NULL
+0	xihongshi2	2020-08-26 18:28:14	NULL	p16_nextButton	next_button		2020-08-26 18:29:10	NULL
+0	xihongshi2	2020-08-26 18:28:14	NULL	p17_nextButton	next_button		2020-08-26 18:29:12	NULL
+0	xihongshi2	2020-08-26 18:28:14	NULL	p18_nextButton	next_button		2020-08-26 18:29:16	NULL
+0	xihongshi3	2020-08-26 18:30:08	NULL	p1_nextButton	next_button		2020-08-26 18:30:14	NULL
+0	xihongshi3	2020-08-26 18:30:08	NULL	p1_nextButton	next_button		2020-08-26 18:30:14	NULL
+0	xihongshi3	2020-08-26 18:30:08	NULL	p2_nextButton	next_button		2020-08-26 18:30:15	NULL
+0	xihongshi3	2020-08-26 18:30:08	NULL	p3_nextButton	next_button		2020-08-26 18:30:16	NULL
+0	xihongshi3	2020-08-26 18:30:08	NULL	p4_nextButton	next_button		2020-08-26 18:30:18	NULL
+0	xihongshi3	2020-08-26 18:30:08	NULL	p5_nextButton	next_button		2020-08-26 18:30:19	NULL
+0	xihongshi3	2020-08-26 18:30:08	NULL	p5_nextButton	next_button		2020-08-26 18:30:20	NULL
+0	xihongshi3	2020-08-26 18:30:08	NULL	p6_nextButton	next_button		2020-08-26 18:30:22	NULL
+0	xihongshi3	2020-08-26 18:30:08	NULL	p7_nextButton	next_button		2020-08-26 18:30:23	NULL
+0	xihongshi3	2020-08-26 18:30:08	NULL	p8_nextButton	next_button		2020-08-26 18:30:26	NULL
+0	xihongshi3	2020-08-26 18:30:08	NULL	p8_nextButton	next_button		2020-08-26 18:30:27	NULL
+0	xihongshi3	2020-08-26 18:30:08	NULL	p8_nextButton	next_button		2020-08-26 18:30:27	NULL
+0	xihongshi3	2020-08-26 18:30:08	NULL	p8_nextButton	next_button		2020-08-26 18:30:28	NULL
+0	xihongshi3	2020-08-26 18:30:08	NULL	p8_nextButton	next_button		2020-08-26 18:30:28	NULL
+0	xihongshi3	2020-08-26 18:30:08	NULL	p8_nextButton	next_button		2020-08-26 18:30:30	NULL
+0	xihongshi3	2020-08-26 18:30:08	NULL	p9_nextButton	next_button		2020-08-26 18:30:32	NULL
+0	xihongshi3	2020-08-26 18:30:08	NULL	p10_nextButton	next_button		2020-08-26 18:30:34	NULL
+0	xihongshi3	2020-08-26 18:30:08	NULL	p10_nextButton	next_button		2020-08-26 18:30:34	NULL
+0	xihongshi3	2020-08-26 18:30:08	NULL	p10_nextButton	next_button		2020-08-26 18:30:34	NULL
+0	xihongshi3	2020-08-26 18:30:08	NULL	p10_nextButton	next_button		2020-08-26 18:30:34	NULL
+0	xihongshi3	2020-08-26 18:30:08	NULL	p10_nextButton	next_button		2020-08-26 18:30:34	NULL
+0	xihongshi3	2020-08-26 18:30:08	NULL	p10_nextButton	next_button		2020-08-26 18:30:34	NULL
+0	xihongshi3	2020-08-26 18:30:08	NULL	p10_nextButton	next_button		2020-08-26 18:30:36	NULL
+0	xihongshi3	2020-08-26 18:30:08	NULL	p11_nextButton	next_button		2020-08-26 18:30:37	NULL
+0	xihongshi3	2020-08-26 18:30:08	NULL	p11_nextButton	next_button		2020-08-26 18:30:37	NULL
+0	xihongshi3	2020-08-26 18:30:08	NULL	p11_nextButton	next_button		2020-08-26 18:30:37	NULL
+0	xihongshi3	2020-08-26 18:30:08	NULL	p12_nextButton	next_button		2020-08-26 18:30:38	NULL
+0	xihongshi3	2020-08-26 18:30:08	NULL	p12_nextButton	next_button		2020-08-26 18:30:39	NULL
+0	xihongshi3	2020-08-26 18:30:08	NULL	p13_nextButton	next_button		2020-08-26 18:30:40	NULL
+0	xihongshi3	2020-08-26 18:30:08	NULL	p14_nextButton	next_button		2020-08-26 18:30:41	NULL
+0	xihongshi3	2020-08-26 18:30:08	NULL	p14_nextButton	next_button		2020-08-26 18:30:42	NULL
+0	xihongshi3	2020-08-26 18:30:08	NULL	p14_nextButton	next_button		2020-08-26 18:30:42	NULL
+0	xihongshi3	2020-08-26 18:30:08	NULL	p15_nextButton	next_button		2020-08-26 18:30:43	NULL
+0	xihongshi3	2020-08-26 18:30:08	NULL	p16_nextButton	next_button		2020-08-26 18:30:44	NULL
+0	xihongshi3	2020-08-26 18:30:08	NULL	p16_nextButton	next_button		2020-08-26 18:30:45	NULL
+0	xihongshi3	2020-08-26 18:30:08	NULL	p16_nextButton	next_button		2020-08-26 18:30:45	NULL
+0	xihongshi3	2020-08-26 18:30:08	NULL	p16_nextButton	next_button		2020-08-26 18:30:46	NULL
+0	xihongshi3	2020-08-26 18:30:08	NULL	p16_nextButton	next_button		2020-08-26 18:30:47	NULL
+0	xihongshi3	2020-08-26 18:30:08	NULL	p17_nextButton	next_button		2020-08-26 18:30:48	NULL
+0	xihongshi3	2020-08-26 18:30:08	NULL	p18_nextButton	next_button		2020-08-26 18:30:50	NULL
+1	xihongshi	2020-08-27 15:47:04	NULL	p1_nextButton	next_button		2020-08-27 15:47:07	NULL
+1	xihongshi	2020-08-27 15:47:04	NULL	p1_nextButton	next_button		2020-08-27 15:47:07	NULL
+1	xihongshi	2020-08-27 15:47:04	NULL	p2_nextButton	next_button		2020-08-27 15:47:07	NULL
+1	xihongshi	2020-08-27 15:47:04	NULL	p3_nextButton	next_button		2020-08-27 15:47:08	NULL
+1	xihongshi	2020-08-27 15:47:04	NULL	p4_nextButton	next_button		2020-08-27 15:47:08	NULL
+1	xihongshi	2020-08-27 15:47:04	NULL	q2_nextButton	next_button		2020-08-27 15:47:09	NULL
+1	xihongshi	2020-08-27 15:47:04	NULL	q3_nextButton	next_button		2020-08-27 15:47:09	NULL
+1	xihongshi	2020-08-27 15:47:04	NULL	p5_nextButton	next_button		2020-08-27 15:47:09	NULL
+1	xihongshi	2020-08-27 15:47:04	NULL	p5_nextButton	next_button		2020-08-27 15:47:09	NULL
+1	xihongshi	2020-08-27 15:47:04	NULL	p6_nextButton	next_button		2020-08-27 15:47:09	NULL
+1	xihongshi	2020-08-27 15:47:04	NULL	p6_nextButton	next_button		2020-08-27 15:47:09	NULL
+1	xihongshi	2020-08-27 15:47:04	NULL	p7_nextButton	next_button		2020-08-27 15:47:10	NULL
+1	xihongshi	2020-08-27 15:47:04	NULL	q6_nextButton	next_button		2020-08-27 15:47:10	NULL
+1	xihongshi	2020-08-27 15:47:04	NULL	p8_nextButton	next_button		2020-08-27 15:47:10	NULL
+1	xihongshi	2020-08-27 15:47:04	NULL	p8_nextButton	next_button		2020-08-27 15:47:10	NULL
+1	xihongshi	2020-08-27 15:47:04	NULL	p9_nextButton	next_button		2020-08-27 15:47:11	NULL
+1	xihongshi	2020-08-27 15:47:04	NULL	p6_nextButton	next_button		2020-08-27 15:47:11	NULL
+1	xihongshi	2020-08-27 15:47:04	NULL	p6_nextButton	next_button		2020-08-27 15:47:11	NULL
+1	xihongshi	2020-08-27 15:47:04	NULL	p6_nextButton	next_button		2020-08-27 15:47:11	NULL
+1	xihongshi	2020-08-27 15:47:04	NULL	p10_nextButton	next_button		2020-08-27 15:47:12	NULL
+1	xihongshi	2020-08-27 15:47:04	NULL	p11_nextButton	next_button		2020-08-27 15:47:12	NULL
+1	xihongshi	2020-08-27 15:47:04	NULL	q10_nextButton	next_button		2020-08-27 15:47:12	NULL
+1	xihongshi	2020-08-27 15:47:04	NULL	p12_nextButton	next_button		2020-08-27 15:47:12	NULL
+1	xihongshi	2020-08-27 15:47:04	NULL	p12_nextButton	next_button		2020-08-27 15:47:13	NULL
+1	xihongshi	2020-08-27 15:47:04	NULL	p13_nextButton	next_button		2020-08-27 15:47:13	NULL
+1	xihongshi	2020-08-27 15:47:04	NULL	p14_nextButton	next_button		2020-08-27 15:47:13	NULL
+1	xihongshi	2020-08-27 15:47:04	NULL	p15_nextButton	next_button		2020-08-27 15:47:14	NULL
+1	xihongshi	2020-08-27 15:47:04	NULL	p15_nextButton	next_button		2020-08-27 15:47:14	NULL
+1	xihongshi	2020-08-27 15:47:04	NULL	p16_nextButton	next_button		2020-08-27 15:47:14	NULL
+1	xihongshi	2020-08-27 15:47:04	NULL	p17_nextButton	next_button		2020-08-27 15:47:14	NULL
+1	xihongshi	2020-08-27 15:47:04	NULL	p17_nextButton	next_button		2020-08-27 15:47:15	NULL
+1	xihongshi	2020-08-27 15:47:04	NULL	p17_nextButton	next_button		2020-08-27 15:47:15	NULL
+1	xihongshi	2020-08-27 15:47:04	NULL	p18_nextButton	next_button		2020-08-27 15:47:15	NULL
+1	xihongshi	2020-08-27 15:47:04	NULL	q17_nextButton	next_button		2020-08-27 15:47:15	NULL
+0	xihongshi	2020-08-28 07:52:47	NULL	p1_nextButton	next_button		2020-08-28 07:52:51	NULL
+0	xihongshi	2020-08-28 07:52:47	NULL	p1_nextButton	next_button		2020-08-28 07:52:51	NULL
+0	xihongshi	2020-08-28 07:52:47	NULL	p2_nextButton	next_button		2020-08-28 07:52:51	NULL
+0	xihongshi	2020-08-28 07:52:47	NULL	p2_nextButton	next_button		2020-08-28 07:52:51	NULL
+0	xihongshi	2020-08-28 07:52:47	NULL	p3_nextButton	next_button		2020-08-28 07:52:51	NULL
+0	xihongshi	2020-08-28 07:52:47	NULL	p3_nextButton	next_button		2020-08-28 07:52:51	NULL
+0	xihongshi	2020-08-28 07:52:47	NULL	p3_nextButton	next_button		2020-08-28 07:52:52	NULL
+0	xihongshi	2020-08-28 07:52:47	NULL	p4_nextButton	next_button		2020-08-28 07:52:52	NULL
+0	xihongshi	2020-08-28 07:52:47	NULL	p5_nextButton	next_button		2020-08-28 07:52:52	NULL
+0	xihongshi	2020-08-28 07:52:47	NULL	p5_nextButton	next_button		2020-08-28 07:52:52	NULL
+0	xihongshi	2020-08-28 07:52:47	NULL	p5_nextButton	next_button		2020-08-28 07:52:52	NULL
+0	xihongshi	2020-08-28 07:52:47	NULL	p6_nextButton	next_button		2020-08-28 07:52:53	NULL
+0	xihongshi	2020-08-28 07:52:47	NULL	p6_nextButton	next_button		2020-08-28 07:52:53	NULL
+0	xihongshi	2020-08-28 07:52:47	NULL	p7_nextButton	next_button		2020-08-28 07:52:53	NULL
+0	xihongshi	2020-08-28 07:52:47	NULL	p7_nextButton	next_button		2020-08-28 07:52:53	NULL
+0	xihongshi	2020-08-28 07:52:47	NULL	p7_nextButton	next_button		2020-08-28 07:52:53	NULL
+0	xihongshi	2020-08-28 07:52:47	NULL	p7_nextButton	next_button		2020-08-28 07:52:54	NULL
+0	xihongshi	2020-08-28 07:52:47	NULL	p8_nextButton	next_button		2020-08-28 07:52:54	NULL
+0	xihongshi	2020-08-28 07:52:47	NULL	p9_nextButton	next_button		2020-08-28 07:52:54	NULL
+0	xihongshi	2020-08-28 07:52:47	NULL	p9_nextButton	next_button		2020-08-28 07:52:55	NULL
+0	xihongshi	2020-08-28 07:52:47	NULL	p9_nextButton	next_button		2020-08-28 07:52:55	NULL
+0	xihongshi	2020-08-28 07:52:47	NULL	p9_nextButton	next_button		2020-08-28 07:52:55	NULL
+0	xihongshi	2020-08-28 07:52:47	NULL	p10_nextButton	next_button		2020-08-28 07:52:55	NULL
+0	xihongshi	2020-08-28 07:52:47	NULL	p11_nextButton	next_button		2020-08-28 07:52:56	NULL
+0	xihongshi	2020-08-28 07:52:47	NULL	p12_nextButton	next_button		2020-08-28 07:52:56	NULL
+0	xihongshi	2020-08-28 07:52:47	NULL	p13_nextButton	next_button		2020-08-28 07:52:57	NULL
+0	xihongshi	2020-08-28 07:52:47	NULL	p14_nextButton	next_button		2020-08-28 07:52:57	NULL
+0	xihongshi	2020-08-28 07:52:47	NULL	p11_nextButton	next_button		2020-08-28 07:52:57	NULL
+0	xihongshi	2020-08-28 07:52:47	NULL	p15_nextButton	next_button		2020-08-28 07:52:57	NULL
+0	xihongshi	2020-08-28 07:52:47	NULL	p16_nextButton	next_button		2020-08-28 07:52:57	NULL
+0	xihongshi	2020-08-28 07:52:47	NULL	p17_nextButton	next_button		2020-08-28 07:52:58	NULL
+0	xihongshi	2020-08-28 07:52:47	NULL	p17_nextButton	next_button		2020-08-28 07:52:58	NULL
+0	xihongshi	2020-08-28 07:52:47	NULL	p16_nextButton	next_button		2020-08-28 07:52:58	NULL
+0	xihongshi	2020-08-28 07:52:47	NULL	p17_nextButton	next_button		2020-08-28 07:52:58	NULL
+0	xihongshi	2020-08-28 07:52:47	NULL	p18_nextButton	next_button		2020-08-28 07:52:59	NULL
+2	xihongshi	2020-08-29 07:34:24	NULL	p1_nextButton	next_button		2020-08-29 07:35:14	NULL
+0	xihongshi	2020-08-29 09:53:14	NULL	p1_nextButton	next_button		2020-08-29 09:55:30	NULL
+0	xihongshi	2020-08-29 09:53:14	NULL	p1_nextButton	next_button		2020-08-29 09:55:36	NULL
+0	xihongshi	2020-08-29 09:53:14	NULL	p2_backButton	back_button		2020-08-29 09:55:38	NULL
+0	xihongshi	2020-08-29 09:53:14	NULL	p1_nextButton	next_button		2020-08-29 09:55:52	NULL
+0	xihongshi2	2020-08-29 10:41:33	2020-08-29 10:49:14	p1_nextButton	next_button		2020-08-29 10:43:24	NULL
+0	xihongshi2	2020-08-29 10:41:33	2020-08-29 10:49:14	p1_nextButton	next_button		2020-08-29 10:43:58	NULL
+0	xihongshi2	2020-08-29 10:41:33	2020-08-29 10:49:14	p2_undefined	vocabulary		2020-08-29 10:44:11	NULL
+0	xihongshi2	2020-08-29 10:41:33	2020-08-29 10:49:14	p2_nextButton	next_button		2020-08-29 10:44:44	NULL
+0	xihongshi2	2020-08-29 10:41:33	2020-08-29 10:49:14	p3_nextButton	next_button		2020-08-29 10:45:39	NULL
+0	xihongshi2	2020-08-29 10:41:33	2020-08-29 10:49:14	p4_nextButton	next_button		2020-08-29 10:45:48	NULL
+0	xihongshi2	2020-08-29 10:41:33	2020-08-29 10:49:14	p5_nextButton	next_button		2020-08-29 10:48:05	NULL
+0	xihongshi2	2020-08-29 10:41:33	2020-08-29 10:49:14	p6_nextButton	next_button		2020-08-29 10:48:15	NULL
+0	xihongshi2	2020-08-29 10:49:14	2020-08-29 11:11:26	p1_nextButton	next_button		2020-08-29 10:49:24	NULL
+0	xihongshi2	2020-08-29 10:49:14	2020-08-29 11:11:26	p1_nextButton	next_button		2020-08-29 10:49:25	NULL
+0	xihongshi2	2020-08-29 10:49:14	2020-08-29 11:11:26	p2_nextButton	next_button		2020-08-29 10:49:31	NULL
+0	xihongshi2	2020-08-29 10:49:14	2020-08-29 11:11:26	p3_nextButton	next_button		2020-08-29 10:49:33	NULL
+0	xihongshi2	2020-08-29 10:49:14	2020-08-29 11:11:26	p4_nextButton	next_button		2020-08-29 10:49:37	NULL
+0	xihongshi	2020-08-29 10:51:06	NULL	p1_nextButton	next_button		2020-08-29 10:51:11	NULL
+0	xihongshi	2020-08-29 10:51:06	NULL	p1_nextButton	next_button		2020-08-29 10:51:12	NULL
+0	xihongshi	2020-08-29 10:51:06	NULL	p2_nextButton	next_button		2020-08-29 10:51:16	NULL
+0	xihongshi	2020-08-29 10:51:06	NULL	p3_nextButton	next_button		2020-08-29 10:51:19	NULL
+0	xihongshi	2020-08-29 20:23:06	NULL	p1_nextButton	next_button		2020-08-29 20:24:24	NULL
+0	xihongshi	2020-08-29 20:23:06	NULL	p1_nextButton	next_button		2020-08-29 20:24:25	NULL
+0	xihongshi	2020-08-29 20:23:06	NULL	p1_nextButton	next_button		2020-08-29 20:24:27	NULL
+0	xihongshi	2020-08-29 20:23:06	NULL	p2_nextButton	next_button		2020-08-29 20:25:39	NULL
+0	xihongshi	2020-08-29 20:23:06	NULL	p3_disappointed	vocabulary		2020-08-29 20:26:14	NULL
+0	xihongshi	2020-08-29 20:23:06	NULL	p3_water	vocabulary		2020-08-29 20:26:29	NULL
+0	xihongshi	2020-08-29 20:23:06	NULL	p3_see	vocabulary		2020-08-29 20:26:39	NULL
+0	xihongshi	2020-08-29 20:23:06	NULL	p3_dry	vocabulary		2020-08-29 20:26:45	NULL
+0	xihongshi	2020-08-29 20:23:06	NULL	p3_leaf	vocabulary		2020-08-29 20:26:54	NULL
+0	xihongshi	2020-08-29 20:23:06	NULL	p3_nextButton	next_button		2020-08-29 20:27:23	NULL
+0	xihongshi	2020-08-29 20:23:06	NULL	p4_nextButton	next_button		2020-08-29 20:33:57	NULL
+0	xihongshi	2020-08-29 20:23:06	NULL	p5_replayButton	replay_button		2020-08-29 20:47:50	NULL
+0	xihongshi	2020-08-29 20:23:06	NULL	p5_Bunnies	vocabulary		2020-08-29 20:48:13	NULL
+0	xihongshi	2020-08-29 22:22:59	NULL	p1_nextButton	next_button		2020-08-29 22:24:04	NULL
+0	xihongshi	2020-08-29 22:22:59	NULL	p1_nextButton	next_button		2020-08-29 22:24:06	NULL
+0	xihongshi	2020-08-29 22:22:59	NULL	p1_nextButton	next_button		2020-08-29 22:24:12	NULL
+0	xihongshi	2020-08-29 22:22:59	NULL	p1_nextButton	next_button		2020-08-29 22:24:12	NULL
+0	xihongshi	2020-08-31 09:12:49	NULL	p1_nextButton	next_button		2020-08-31 09:15:21	NULL
+0	xihongshi	2020-08-31 09:12:49	NULL	p1_nextButton	next_button		2020-08-31 09:15:25	NULL
+0	xihongshi	2020-08-31 09:12:49	NULL	p2_nextButton	next_button		2020-08-31 09:15:45	NULL
+0	xihongshi	2020-08-31 09:12:49	NULL	p3_replayButton	replay_button		2020-08-31 09:16:43	NULL
+0	xihongshi	2020-08-31 09:12:49	NULL	p3_backButton	back_button		2020-08-31 09:16:47	NULL
+0	xihongshi	2020-08-31 09:12:49	NULL	p2_nextButton	next_button		2020-08-31 09:16:48	NULL
+0	xihongshi	2020-08-31 09:12:49	NULL	p3_nextButton	next_button		2020-08-31 09:16:58	NULL
+0	xihongshi	2020-08-31 09:12:49	NULL	p4_nextButton	next_button		2020-08-31 09:17:16	NULL
+0	xihongshi2	2020-09-01 04:20:25	2020-09-01 04:52:05	p1_nextButton	next_button		2020-09-01 04:21:38	NULL
+0	xihongshi2	2020-09-01 04:20:25	2020-09-01 04:52:05	p1_nextButton	next_button		2020-09-01 04:21:39	NULL
+0	xihongshi2	2020-09-01 04:20:25	2020-09-01 04:52:05	p2_nextButton	next_button		2020-09-01 04:26:04	NULL
+0	xihongshi2	2020-09-01 04:20:25	2020-09-01 04:52:05	p3_nextButton	next_button		2020-09-01 04:26:04	NULL
+0	xihongshi2	2020-09-01 04:20:25	2020-09-01 04:52:05	p3_nextButton	next_button		2020-09-01 04:26:29	NULL
+0	xihongshi2	2020-09-01 04:20:25	2020-09-01 04:52:05	p4_nextButton	next_button		2020-09-01 04:50:52	NULL
+0	xihongshi2	2020-09-01 04:20:25	2020-09-01 04:52:05	p5_nextButton	next_button		2020-09-01 04:51:05	NULL
+5	xihongshi	2020-09-01 04:52:05	NULL	p1_nextButton	next_button		2020-09-01 04:52:53	NULL
+5	xihongshi	2020-09-01 04:52:05	NULL	p1_nextButton	next_button		2020-09-01 04:52:54	NULL
+5	xihongshi	2020-09-01 04:52:05	NULL	p2_nextButton	next_button		2020-09-01 04:52:57	NULL
+5	xihongshi	2020-09-01 04:52:05	NULL	p3_nextButton	next_button		2020-09-01 04:53:20	NULL
+5	xihongshi	2020-09-01 04:52:05	NULL	q3	discussion	c_111	2020-09-01 04:53:42	NULL
+5	xihongshi	2020-09-01 04:52:05	NULL	q3	discussion	a_113	2020-09-01 04:53:47	NULL
+5	xihongshi	2020-09-01 04:52:05	NULL	q3	discussion	a_113	2020-09-01 04:53:50	NULL
+5	xihongshi	2020-09-01 04:52:05	NULL	q3	discussion	b_answer_112	2020-09-01 04:53:55	NULL
+5	xihongshi	2020-09-01 04:52:05	NULL	q3_nextButton	next_button		2020-09-01 04:54:08	NULL
+5	xihongshi	2020-09-01 04:52:05	NULL	p4_nextButton	next_button		2020-09-01 04:54:11	NULL
+5	xihongshi	2020-09-01 04:52:05	NULL	p5_nextButton	next_button		2020-09-01 05:00:20	NULL
+2	xihongshi	2020-09-01 06:32:09	2020-09-01 06:33:47	p1_nextButton	next_button		2020-09-01 06:32:20	NULL
+2	xihongshi	2020-09-01 06:32:09	2020-09-01 06:33:47	p1_nextButton	next_button		2020-09-01 06:32:24	NULL
+2	xihongshi	2020-09-01 06:33:47	2020-09-01 06:34:11	p1_nextButton	next_button		2020-09-01 06:33:52	NULL
+2	xihongshi	2020-09-01 06:33:47	2020-09-01 06:34:11	p1_nextButton	next_button		2020-09-01 06:33:54	NULL
+0	xihongshi	2020-09-01 06:34:11	2020-09-01 06:44:24	p1_nextButton	next_button		2020-09-01 06:36:18	NULL
+0	xihongshi	2020-09-01 06:34:11	2020-09-01 06:44:24	p1_nextButton	next_button		2020-09-01 06:36:20	NULL
+0	xihongshi	2020-09-01 06:34:11	2020-09-01 06:44:24	p2_cocoon	vocabulary		2020-09-01 06:36:37	NULL
+0	xihongshi	2020-09-01 06:34:11	2020-09-01 06:44:24	p2_beautiful	vocabulary		2020-09-01 06:37:08	NULL
+0	xihongshi	2020-09-01 06:34:11	2020-09-01 06:44:24	p2_butterfly	vocabulary		2020-09-01 06:37:14	NULL
+0	xihongshi	2020-09-01 06:34:11	2020-09-01 06:44:24	p2_nextButton	next_button		2020-09-01 06:37:21	NULL
+1	xihongshi	2020-09-01 06:37:05	2020-09-01 06:45:49	p1_replayButton	replay_button		2020-09-01 06:39:44	NULL
+0	xihongshi	2020-09-01 06:34:11	2020-09-01 06:44:24	p3_nextButton	next_button		2020-09-01 06:40:53	NULL
+0	xihongshi	2020-09-01 06:34:11	2020-09-01 06:44:24	p4_nextButton	next_button		2020-09-01 06:41:05	NULL
+0	xihongshi	2020-09-01 06:34:11	2020-09-01 06:44:24	p5_love	vocabulary		2020-09-01 06:41:48	NULL
+0	xihongshi	2020-09-01 06:34:11	2020-09-01 06:44:24	p5_Bunnies	vocabulary		2020-09-01 06:41:54	NULL
+0	xihongshi	2020-09-01 06:34:11	2020-09-01 06:44:24	p5_popular	vocabulary		2020-09-01 06:42:04	NULL
+0	xihongshi	2020-09-01 06:44:48	NULL	p1_nextButton	next_button		2020-09-01 06:45:27	NULL
+0	xihongshi2	2020-09-01 06:47:33	NULL	p1_nextButton	next_button		2020-09-01 06:49:49	NULL
+3	xihongshi	2020-09-01 06:48:06	2020-09-01 06:52:00	p1_replayButton	replay_button		2020-09-01 06:50:41	NULL
+0	xihongshi	2020-09-01 06:52:00	NULL	p1_nextButton	next_button		2020-09-01 06:52:08	NULL
+0	xihongshi	2020-09-01 06:52:00	NULL	p1_nextButton	next_button		2020-09-01 06:52:09	NULL
+0	xihongshi	2020-09-01 06:52:00	NULL	p2_nextButton	next_button		2020-09-01 06:52:32	NULL
+0	xihongshi	2020-09-01 06:52:00	NULL	p3_disappointed	vocabulary		2020-09-01 06:53:17	NULL
+0	xihongshi	2020-09-01 06:52:00	NULL	p3_nextButton	next_button		2020-09-01 06:53:23	NULL
+0	xihongshi	2020-09-01 06:52:00	NULL	p4_nextButton	next_button		2020-09-01 06:53:26	NULL
+0	xihongshi2	2020-09-01 06:47:33	NULL	p2_stretch	vocabulary		2020-09-01 06:57:07	NULL
+0	xihongshi2	2020-09-01 06:47:33	NULL	p2_butterfly	vocabulary		2020-09-01 06:57:12	NULL
+0	xihongshi2	2020-09-01 06:47:33	NULL	p2_stretch	vocabulary		2020-09-01 06:57:16	NULL
+0	xihongshi2	2020-09-01 06:47:33	NULL	p2_beautiful	vocabulary		2020-09-01 06:57:20	NULL
+0	xihongshi2	2020-09-01 06:47:33	NULL	p2_cocoon	vocabulary		2020-09-01 06:57:22	NULL
+0	xihongshi2	2020-09-01 06:47:33	NULL	p2_stretch	vocabulary		2020-09-01 06:57:24	NULL
+0	xihongshi2	2020-09-01 06:47:33	NULL	p2_deep	vocabulary		2020-09-01 06:57:26	NULL
+0	xihongshi2	2020-09-01 06:47:33	NULL	p2_nextButton	next_button		2020-09-01 06:57:30	NULL
+0	xihongshi2	2020-09-01 06:47:33	NULL	p3_nextButton	next_button		2020-09-01 06:57:49	NULL
+0	xihongshi2	2020-09-01 06:47:33	NULL	p4_green	vocabulary		2020-09-01 07:00:20	NULL
+0	xihongshi2	2020-09-01 06:47:33	NULL	p4_butterfly	vocabulary		2020-09-01 07:00:23	NULL
+0	xihongshi2	2020-09-01 06:47:33	NULL	p4_nextButton	next_button		2020-09-01 07:00:32	NULL
+0	xihongshi	2020-09-02 03:42:03	2020-09-02 03:47:13	p1_nextButton	next_button		2020-09-02 03:45:28	NULL
+0	xihongshi	2020-09-02 03:42:03	2020-09-02 03:47:13	p1_nextButton	next_button		2020-09-02 03:45:42	NULL
+0	xihongshi	2020-09-02 08:06:15	2020-09-02 08:10:11	p1_nextButton	next_button		2020-09-02 08:07:53	NULL
+0	xihongshi	2020-09-02 08:06:15	2020-09-02 08:10:11	p1_nextButton	next_button		2020-09-02 08:07:55	NULL
+0	xihongshi	2020-09-02 08:06:15	2020-09-02 08:10:11	p2_nextButton	next_button		2020-09-02 08:08:36	NULL
+0	xihongshi2	2020-09-02 08:36:58	NULL	p1_nextButton	next_button		2020-09-02 08:38:34	NULL
+0	xihongshi2	2020-09-02 08:36:58	NULL	p1_nextButton	next_button		2020-09-02 08:38:38	NULL
+0	xihongshi2	2020-09-02 08:36:58	NULL	p1_nextButton	next_button		2020-09-02 08:38:53	NULL
+0	xihongshi2	2020-09-02 08:36:58	NULL	p2_nextButton	next_button		2020-09-02 08:39:36	NULL
+0	xihongshi2	2020-09-02 08:36:58	NULL	p3_nextButton	next_button		2020-09-02 08:41:04	NULL
+0	xihongshi	2020-09-02 11:18:23	2020-09-02 11:19:31	p1_nextButton	next_button		2020-09-02 11:18:35	NULL
+0	xihongshi	2020-09-02 11:18:23	2020-09-02 11:19:31	p1_nextButton	next_button		2020-09-02 11:18:41	NULL
+2	xihongshi	2020-09-02 11:21:04	2020-09-02 11:22:39	p1_nextButton	next_button		2020-09-02 11:22:10	NULL
+3	xihongshi	2020-09-02 11:22:32	NULL	p1_nextButton	next_button		2020-09-02 11:24:22	NULL
+3	xihongshi	2020-09-02 11:22:32	NULL	p1_nextButton	next_button		2020-09-02 11:24:23	NULL
+3	xihongshi	2020-09-02 11:22:32	NULL	p2_nextButton	next_button		2020-09-02 11:24:25	NULL
+1	admin	2020-09-02 11:23:32	NULL	p1_nextButton	next_button		2020-09-02 11:26:22	NULL
+1	admin	2020-09-02 11:23:32	NULL	p1_nextButton	next_button		2020-09-02 11:26:25	NULL
+1	admin	2020-09-02 11:23:32	NULL	p2_nextButton	next_button		2020-09-02 11:38:18	NULL
+1	admin	2020-09-02 11:23:32	NULL	p3_nextButton	next_button		2020-09-02 11:38:26	NULL
+1	admin	2020-09-02 11:23:32	NULL	q2	discussion	question	2020-09-02 11:38:33	NULL
+1	admin	2020-09-02 11:23:32	NULL	q2	discussion	c_answer	2020-09-02 11:39:01	NULL
+0	xihongshi	2020-09-02 13:45:14	NULL	p1_nextButton	next_button		2020-09-02 13:45:31	NULL
+0	xihongshi	2020-09-02 13:45:14	NULL	p1_nextButton	next_button		2020-09-02 13:45:38	NULL
+0	xihongshi2	2020-09-02 13:45:31	2020-09-02 13:46:24	p1_nextButton	next_button		2020-09-02 13:45:39	NULL
+0	xihongshi2	2020-09-02 13:45:31	2020-09-02 13:46:24	p1_nextButton	next_button		2020-09-02 13:45:39	NULL
+0	xihongshi2	2020-09-02 13:45:31	2020-09-02 13:46:24	p2_nextButton	next_button		2020-09-02 13:45:42	NULL
+0	xihongshi2	2020-09-02 13:45:31	2020-09-02 13:46:24	p3_nextButton	next_button		2020-09-02 13:45:43	NULL
+0	xihongshi2	2020-09-02 13:45:31	2020-09-02 13:46:24	p4_nextButton	next_button		2020-09-02 13:45:44	NULL
+0	xihongshi	2020-09-02 13:45:14	NULL	p2_cocoon	vocabulary		2020-09-02 13:45:53	NULL
+0	xihongshi	2020-09-02 13:45:14	NULL	p2_butterfly	vocabulary		2020-09-02 13:46:09	NULL
+2	admin	2020-09-02 13:46:07	NULL	p1_nextButton	next_button		2020-09-02 13:46:12	NULL
+2	admin	2020-09-02 13:46:07	NULL	p1_nextButton	next_button		2020-09-02 13:46:13	NULL
+2	admin	2020-09-02 13:46:07	NULL	p2_nextButton	next_button		2020-09-02 13:46:13	NULL
+2	admin	2020-09-02 13:46:07	NULL	p2_nextButton	next_button		2020-09-02 13:46:13	NULL
+2	admin	2020-09-02 13:46:07	NULL	p2_nextButton	next_button		2020-09-02 13:46:13	NULL
+0	xihongshi	2020-09-02 13:45:14	NULL	p2_nextButton	next_button		2020-09-02 13:46:17	NULL
+0	xihongshi	2020-09-02 13:45:14	NULL	p3_nextButton	next_button		2020-09-02 13:46:36	NULL
+2	admin	2020-09-02 13:46:07	NULL	p3_nextButton	next_button		2020-09-02 13:46:36	NULL
+2	admin	2020-09-02 13:46:07	NULL	q3	discussion	b_answer_112	2020-09-02 13:46:51	NULL
+4	xihongshi	2020-09-02 13:46:24	2020-09-02 13:57:24	p1_nextButton	next_button		2020-09-02 13:46:51	NULL
+4	xihongshi	2020-09-02 13:46:24	2020-09-02 13:57:24	p1_nextButton	next_button		2020-09-02 13:46:54	NULL
+4	xihongshi	2020-09-02 13:46:24	2020-09-02 13:57:24	p2_cocoon	vocabulary		2020-09-02 13:47:03	NULL
+4	xihongshi	2020-09-02 13:46:24	2020-09-02 13:57:24	p2_stretch	vocabulary		2020-09-02 13:47:11	NULL
+4	xihongshi	2020-09-02 13:46:24	2020-09-02 13:57:24	p2_nextButton	next_button		2020-09-02 13:47:16	NULL
+4	xihongshi	2020-09-02 13:46:24	2020-09-02 13:57:24	p3_disappointed	vocabulary		2020-09-02 13:47:21	NULL
+4	xihongshi	2020-09-02 13:46:24	2020-09-02 13:57:24	p3_nextButton	next_button		2020-09-02 13:47:25	NULL
+0	xihongshi2	2020-09-02 13:48:19	NULL	p1_nextButton	next_button		2020-09-02 13:48:34	NULL
+0	xihongshi2	2020-09-02 13:48:19	NULL	p1_nextButton	next_button		2020-09-02 13:48:35	NULL
+0	xihongshi2	2020-09-02 13:48:19	NULL	p1_nextButton	next_button		2020-09-02 13:48:40	NULL
+4	xihongshi	2020-09-02 13:46:24	2020-09-02 13:57:24	q2	discussion	a	2020-09-02 13:48:47	NULL
+0	xihongshi2	2020-09-02 13:48:19	NULL	p2_nextButton	next_button		2020-09-02 13:48:57	NULL
+0	xihongshi2	2020-09-02 13:48:19	NULL	p3_nextButton	next_button		2020-09-02 13:49:58	NULL
+0	xihongshi2	2020-09-02 13:48:19	NULL	p4_nextButton	next_button		2020-09-02 13:50:02	NULL
+0	xihongshi2	2020-09-02 13:48:19	NULL	p5_nextButton	next_button		2020-09-02 13:50:58	NULL
+0	xihongshi2	2020-09-02 13:48:19	NULL	p6_nextButton	next_button		2020-09-02 13:51:05	NULL
+0	xihongshi2	2020-09-02 13:48:19	NULL	p7_nextButton	next_button		2020-09-02 13:51:27	NULL
+0	xihongshi2	2020-09-02 13:48:19	NULL	p8_nextButton	next_button		2020-09-02 13:51:30	NULL
+0	xihongshi2	2020-09-02 13:48:19	NULL	p8_nextButton	next_button		2020-09-02 13:51:30	NULL
+0	xihongshi2	2020-09-02 13:48:19	NULL	p8_nextButton	next_button		2020-09-02 13:51:52	NULL
+0	xihongshi2	2020-09-02 13:48:19	NULL	p9_nextButton	next_button		2020-09-02 13:52:51	NULL
+0	xihongshi2	2020-09-02 13:48:19	NULL	p10_nextButton	next_button		2020-09-02 13:53:09	NULL
+0	xihongshi2	2020-09-02 13:48:19	NULL	p10_nextButton	next_button		2020-09-02 13:53:10	NULL
+0	xihongshi2	2020-09-02 13:48:19	NULL	p11_nextButton	next_button		2020-09-02 13:53:37	NULL
+0	xihongshi2	2020-09-02 13:48:19	NULL	p12_nextButton	next_button		2020-09-02 13:53:42	NULL
+0	xihongshi2	2020-09-02 13:48:19	NULL	p13_nextButton	next_button		2020-09-02 13:53:54	NULL
+0	xihongshi2	2020-09-02 13:48:19	NULL	p14_nextButton	next_button		2020-09-02 13:53:55	NULL
+4	xihongshi	2020-09-02 13:46:24	2020-09-02 13:57:24	q2	discussion	a	2020-09-02 13:57:20	NULL
+1	xihongshi	2020-09-02 13:57:24	NULL	p1_nextButton	next_button		2020-09-02 13:58:21	NULL
+1	xihongshi	2020-09-02 13:57:24	NULL	p1_nextButton	next_button		2020-09-02 13:58:22	NULL
+4	xihongshi	2020-09-02 17:03:29	2020-09-02 17:05:24	p1_nextButton	next_button		2020-09-02 17:04:19	NULL
+4	xihongshi	2020-09-02 17:03:29	2020-09-02 17:05:24	p1_nextButton	next_button		2020-09-02 17:04:26	NULL
+0	xihongshi	2020-09-02 17:29:16	NULL	p1_nextButton	next_button		2020-09-02 17:29:56	NULL
+0	xihongshi	2020-09-02 17:29:16	NULL	p1_nextButton	next_button		2020-09-02 17:29:57	NULL
+0	xihongshi	2020-09-02 17:29:16	NULL	p2_nextButton	next_button		2020-09-02 17:30:00	NULL
+0	xihongshi	2020-09-02 17:29:16	NULL	p3_nextButton	next_button		2020-09-02 17:30:10	NULL
+0	xihongshi	2020-09-02 17:29:16	NULL	p4_nextButton	next_button		2020-09-02 17:30:27	NULL
+0	xihongshi	2020-09-02 17:29:16	NULL	p5_nextButton	next_button		2020-09-02 17:30:34	NULL
+0	xihongshi	2020-09-02 17:31:32	2020-09-02 17:32:45	p1_nextButton	next_button		2020-09-02 17:32:01	NULL
+0	xihongshi	2020-09-02 17:31:32	2020-09-02 17:32:45	p1_nextButton	next_button		2020-09-02 17:32:02	NULL
+0	xihongshi	2020-09-02 17:31:32	2020-09-02 17:32:45	p2_nextButton	next_button		2020-09-02 17:32:03	NULL
+0	xihongshi	2020-09-02 17:31:32	2020-09-02 17:32:45	p2_nextButton	next_button		2020-09-02 17:32:09	NULL
+0	xihongshi	2020-09-02 17:31:32	2020-09-02 17:32:45	p2_nextButton	next_button		2020-09-02 17:32:09	NULL
+0	xihongshi	2020-09-02 17:31:32	2020-09-02 17:32:45	p3_nextButton	next_button		2020-09-02 17:32:16	NULL
+5	xihongshi	2020-09-02 17:33:09	2020-09-02 17:34:02	p1_nextButton	next_button		2020-09-02 17:33:29	NULL
+5	xihongshi	2020-09-02 17:33:09	2020-09-02 17:34:02	p1_nextButton	next_button		2020-09-02 17:33:29	NULL
+5	xihongshi	2020-09-02 17:33:09	2020-09-02 17:34:02	p2_nextButton	next_button		2020-09-02 17:33:33	NULL
+5	xihongshi	2020-09-02 17:33:09	2020-09-02 17:34:02	p3_nextButton	next_button		2020-09-02 17:33:38	NULL
+5	xihongshi	2020-09-02 17:33:09	2020-09-02 17:34:02	q3_nextButton	next_button		2020-09-02 17:33:44	NULL
+5	xihongshi	2020-09-02 17:33:09	2020-09-02 17:34:02	p4_nextButton	next_button		2020-09-02 17:33:46	NULL
+5	xihongshi	2020-09-02 17:33:09	2020-09-02 17:34:02	p4_nextButton	next_button		2020-09-02 17:33:48	NULL
+5	xihongshi	2020-09-02 17:33:09	2020-09-02 17:34:02	p5_nextButton	next_button		2020-09-02 17:33:49	NULL
+5	xihongshi	2020-09-02 17:33:09	2020-09-02 17:34:02	q5_nextButton	next_button		2020-09-02 17:33:53	NULL
+2	xihongshi	2020-09-02 17:34:02	2020-09-02 17:35:12	p1_nextButton	next_button		2020-09-02 17:34:06	NULL
+2	xihongshi	2020-09-02 17:34:02	2020-09-02 17:35:12	p1_nextButton	next_button		2020-09-02 17:34:07	NULL
+2	xihongshi	2020-09-02 17:34:02	2020-09-02 17:35:12	p2_nextButton	next_button		2020-09-02 17:34:09	NULL
+2	xihongshi	2020-09-02 17:34:02	2020-09-02 17:35:12	p2_nextButton	next_button		2020-09-02 17:34:10	NULL
+2	xihongshi	2020-09-02 17:34:02	2020-09-02 17:35:12	p3_nextButton	next_button		2020-09-02 17:34:15	NULL
+2	xihongshi	2020-09-02 17:34:02	2020-09-02 17:35:12	q3_nextButton	next_button		2020-09-02 17:34:50	NULL
+0	xihongshi	2020-09-03 04:43:20	NULL	p1_nextButton	next_button		2020-09-03 04:44:17	NULL
+5	admin	2020-09-03 08:18:54	NULL	p1_nextButton	next_button		2020-09-03 08:19:08	NULL
+5	admin	2020-09-03 08:18:54	NULL	p1_nextButton	next_button		2020-09-03 08:19:09	NULL
+5	admin	2020-09-03 08:18:54	NULL	p2_replayButton	replay_button		2020-09-03 08:19:12	NULL
+5	admin	2020-09-03 08:18:54	NULL	p2_nextButton	next_button		2020-09-03 08:19:15	NULL
+5	admin	2020-09-03 08:18:54	NULL	p3_nextButton	next_button		2020-09-03 08:19:18	NULL
+5	admin	2020-09-03 08:18:54	NULL	q3	discussion	a_113	2020-09-03 08:19:29	NULL
+5	admin	2020-09-03 08:18:54	NULL	q3	discussion	b_answer_112	2020-09-03 08:19:32	NULL
+5	admin	2020-09-03 08:18:54	NULL	q3_nextButton	next_button		2020-09-03 08:19:35	NULL
